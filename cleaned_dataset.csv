@@ -1,0 +1,1001 @@
+Employee_ID,First_Name,Last_Name,Full_Name,Email,Phone,Gender,Age,Department,Job_Title,Location,Joining_Date,Years_Experience,Annual_Salary_INR,Performance_Rating,Is_Active
+1788,Divya,Sharma,Divya Sharma,divya.sharma@gmail,+91-8439182043,Female,35,Marketing,Finance Analyst,Hyderabad,2022-08-02,7,1038870,High Performer,False
+1198,Unknown,Unknown,Unknown,employee1@company.in,+91-6588097152,Male,28,Human Resources,HR Executive,Bangalore,2020-11-08,10,698735,Average,True
+1475,Arjun,Mishra,Arjun Mishra,arjun.mishra@gmail.com,+91-9574631360,Female,29,Marketing,Not specified,hyderabad,2020-12-06,14,1721375,Poor,True
+1730,Kiran,Verma,Kiran Verma,kiran.verma@company.in,+91-8378840328,Male,46,Human Resources,Finance Analyst,chennai,2000-01-01,18,1682403,Not Rated,True
+1211,Pooja,Mishra,Pooja Mishra,pooja.mishra@yahoo.com,+91-9533895737,Unknown,49,Human Resources,HR Executive,Chennai,2020-05-19,25,586846,Excellent,False
+1508,Kiran,Singh,Kiran Singh,kiran.singh@hotmail.com,+91-9584516131,Female,30,IT,Senior Analyst,Bombay,2021-06-26,1,1615875,Average,True
+1495,Sneha,Pillai,Sneha Pillai,sneha.pillai@hotmail.com,+91-8122145416,Female,27,Finance,HR Executive,Pune,2020-12-10,22,947879,Excellent,False
+1033,ravi,sharma,ravi sharma,ravi.sharma@hotmail.com,+91-7990510491,Unknown,40,Marketing,Data Engineer,Bombay,2019-08-18,19,369970,Average,True
+1603,Ananya,Reddy,Ananya Reddy,ananya.reddy@yahoo.com,+91-9398262106,Male,23,IT,Manager,Mumbai,2018-08-26,24,575590,Excellent,True
+1658,AAKASH,IYER,AAKASH IYER,aakash.iyer@yahoo.com,Unknown,Male,41,Marketing,BI Developer,chennai,2019-09-15,3,68680,Excellent,False
+1690,meera,mehta,meera mehta,meera.mehta@yahoo.com,+91-8751163659,Unknown,54,Finance,Data Engineer,Mumbai,2000-01-01,21,1171373,Average,True
+1739,Unknown,Unknown,Unknown,employee11@hotmail.com,+91-8029548895,Female,47,IT,Manager,Bengaluru,2022-05-17,29,577159,Excellent,True
+1717,Ananya,Patel,Ananya Patel,ananya.patel@company.in,XXXXXXXXXX,Male,25,IT,Data Engineer,chennai,2019-12-03,24,1067258,Not Rated,True
+1290,Swati,Mishra,Swati Mishra,swati.mishra@gmail.com,+91-8769334117,Female,37,IT,Finance Analyst,Bangalore,2000-01-01,1,871531,Average,True
+1037,Kiran,Joshi,Kiran Joshi,kiran.joshi@company.in,+91-6512624365,Unknown,29,Human Resources,SQL Developer,Bengaluru,2022-11-03,4,838905,High Performer,True
+1464,Unknown,Unknown,Unknown,employee15@outlook.com,+91-8117634585,Female,26,IT,SQL Developer,Chennai,2020-04-14,25,1310508,Good,False
+1384,Meera,Joshi,Meera Joshi,meera.joshi@gmail.com,+91-6286580954,Unknown,22,Operations,BI Developer,Mumbai,2019-03-11,15,918956,Excellent,True
+1176,Rahul,Iyer,Rahul Iyer,rahul.iyer@company.in,+91-7553745264,Female,42,Finance,SENIOR ANALYST,Bombay,2021-08-14,17,1010337,Not Rated,True
+1724,Kiran,Sharma,Kiran Sharma,kiran.sharma@outlook.com,+91-8429124352,Female,58,IT,Sql Developer,Hyderabad,2021-12-06,24,1282162,Average,False
+1247,Priya,Mehta,Priya Mehta,priya.mehta@hotmail.com,+91-7107721600,Male,56,Marketing,data analyst,Chennai,2018-04-20,28,595188,Not Rated,True
+1387,Vikram,Patel,Vikram Patel,vikram.patel@hotmail.com,+91-8044579284,Female,52,Sales,SENIOR ANALYST,Chennai,2021-09-28,6,773148,Not Rated,False
+1465,Vikram,Patel,Vikram Patel,vikram.patel@hotmail.com,+91-9514489277,Unknown,26,Marketing,data analyst,Bombay,2020-07-13,14,1714332,Average,True
+1555,Divya,Sharma,Divya Sharma,divya.sharma@outlook.com,08470738735,Female,40,Human Resources,BI Developer,Hyderabad,2021-05-25,23,1468769,Excellent,False
+1742,Arjun,Pillai,Arjun Pillai,arjun.pillai@company.in,+91-6627654163,Female,40,Human Resources,Data Analyst,Bombay,2020-11-05,28,1127482,Excellent,True
+1082,Meera,Kumar,Meera Kumar,meera.kumar@company.in,+91-9772343920,Male,25,IT,HR Executive,Bangalore,2021-02-03,14,1027322,Average,True
+1183,Swati,Kumar,Swati Kumar,swati.kumar@yahoo.com,+91-7534958893,Female,47,IT,Manager,Bengaluru,2022-07-04,17,1253755,Excellent,True
+1662,Ravi,Mishra,Ravi Mishra,ravi.mishra@hotmail.com,+91-7171110251,Male,54,IT,Data Analyst,hyderabad,2019-08-09,22,1710000,High Performer,True
+1605,ananya,sharma,ananya sharma,ananya.sharma@hotmail.com,+91-8732660632,Female,49,Finance,BI Developer,Mumbai,2023-03-30,18,1099068,High Performer,True
+1732,Rahul,Pillai,Rahul Pillai,rahul.pillai@gmail.com,+91-7528941040,Female,27,IT,Senior Analyst,Chennai,2000-01-01,11,1079036,Excellent,True
+1546,Pooja,Mishra,Pooja Mishra,pooja.mishra@yahoo.com,Unknown,Male,56,Human Resources,Not specified,Pune,2019-06-07,14,60647,Good,True
+1460,Vikram,Gupta,Vikram Gupta,vikram.gupta@hotmail.com,+91-6329968072,Male,39,Finance,SQL Developer,Bangalore,2020-04-05,26,1599283,Excellent,True
+1762,Divya,Kumar,Divya Kumar,divya.kumar@yahoo.com,+91-9291845202,Unknown,27,Finance,Senior Analyst,chennai,2022-04-20,27,1477356,High Performer,False
+1563,Rahul,Nair,Rahul Nair,rahul.nair@outlook.com,+91-9284315878,Unknown,35,Sales,SENIOR ANALYST,Hyderabad,2022-11-16,2,1579435,Good,True
+1101,Priya,Iyer,Priya Iyer,priya.iyer@gmail.com,765-6305130,Male,31,Operations,Not specified,Bengaluru,2000-01-01,14,432575,High Performer,True
+1149,Priya,Iyer,Priya Iyer,priya.iyer@company.in,+91-8997747622,Male,47,Finance,data analyst,Chennai,2018-07-03,8,1273639,High Performer,False
+1131,Vikram,Kumar,Vikram Kumar,vikram.kumar@company.in,+91-6411601358,Male,26,Finance,Data Analyst,Bombay,2018-10-25,14,933738,Excellent,False
+1403,Sneha,Mishra,Sneha Mishra,sneha.mishra@yahoo.com,+91-7510236617,Male,49,IT,Data Engineer,Bangalore,2021-04-01,14,544687,Excellent,True
+1350,Priya,Kumar,Priya Kumar,priya.kumar@hotmail.com,+91-6055395069,Female,37,Operations,Senior Analyst,Bombay,2021-07-28,12,378039,Average,False
+1664,Divya,Reddy,Divya Reddy,divya.reddy@hotmail.com,848-7912120,Unknown,40,Sales,data analyst,Hyderabad,2018-10-28,28,1333108,Average,False
+1564,Kiran,Kumar,Kiran Kumar,kiran.kumar@outlook.com,+91-6700204852,Male,29,IT,Data Engineer,hyderabad,2021-03-03,14,60775,Excellent,False
+1345,Neha,Pillai,Neha Pillai,neha.pillai@hotmail.com,Unknown,Male,25,Marketing,Finance Analyst,Bangalore,2019-08-26,24,584508,Excellent,True
+1572,Sneha,Kumar,Sneha Kumar,sneha.kumar@hotmail.com,+91-9016204712,Unknown,33,Marketing,SQL Developer,Delhi,2022-05-01,10,1078067,Poor,False
+1710,Meera,Joshi,Meera Joshi,meera.joshi@gmail.com,+91-6489483401,Male,30,Human Resources,Data Engineer,Chennai,2021-03-12,21,1760632,Average,True
+1495,Swati,Mehta,Swati Mehta,Not specified,+91-9934323885,Male,32,Sales,SQL Developer,bangalore,2023-05-07,26,1178972,Average,False
+1122,Arjun,Singh,Arjun Singh,arjun.singh@yahoo.com,608-9044980,Male,44,Operations,HR Executive,Mumbai,2022-12-29,16,624058,Good,True
+1578,Swati,Joshi,Swati Joshi,swati.joshi@gmail.com,+91-7557220130,Female,38,Finance,Data Engineer,Mumbai,2018-08-10,24,1673470,Not Rated,True
+1777,Ravi,Mishra,Ravi Mishra,ravi.mishra@company.in,08566881372,Male,30,Finance,SQL Developer,Bombay,2022-09-15,19,94139,Good,False
+1775,Arjun,Sharma,Arjun Sharma,arjun.sharma@yahoo.com,+91-6123521259,Unknown,39,Sales,BI Developer,Bengaluru,2019-08-26,13,886657,Not Rated,False
+1488,Suresh,Verma,Suresh Verma,suresh.verma@yahoo.com,+91-6509369768,Male,29,Sales,HR Executive,Not specified,2022-05-09,3,1027322,Good,True
+1067,Meera,Joshi,Meera Joshi,meera.joshigmail.com,+91-9679993305,Female,23,IT,Data Engineer,Bangalore,2020-04-07,2,1229841,Not Rated,False
+1177,Suresh,Joshi,Suresh Joshi,suresh.joshi@company.in,+91-8955140035,Male,49,Operations,SQL Developer,Delhi,2020-04-15,14,795164,High Performer,False
+1608,Vikram,Sharma,Vikram Sharma,vikram.sharma@company.in,+91-6538349165,Male,26,Finance,data analyst,Delhi,2000-01-01,5,508361,Excellent,False
+1799,Swati,Kumar,Swati Kumar,swati.kumar@gmail.com,+91-6337605742,Unknown,58,Human Resources,Senior Analyst,hyderabad,2018-11-14,6,1070357,Average,False
+1701,Aakash,Iyer,Aakash Iyer,aakash.iyer@gmail.com,+91-9277161790,Female,53,Marketing,BI Developer,hyderabad,2021-04-08,6,1652299,Good,True
+1450,Suresh,Kumar,Suresh Kumar,Not specified,+91-6333870589,Female,45,Human Resources,Senior Analyst,Bengaluru,2020-07-25,14,1134959,Not Rated,False
+1443,Arjun,Verma,Arjun Verma,arjun.verma@company.in,Unknown,Male,40,Human Resources,SENIOR ANALYST,MUMBAI,2023-06-15,16,556187,Excellent,False
+1314,Ananya,Iyer,Ananya Iyer,ananya.iyer@hotmail.com,+91-6182608864,Male,38,Human Resources,Data Analyst,Bengaluru,2000-01-01,18,1253611,Not Rated,True
+1347,Priya,Patel,Priya Patel,priya.patel@gmail.com,+91-6140843630,Male,58,Finance,SENIOR ANALYST,Pune,2018-12-23,11,57801,Not Rated,True
+1016,Suresh,Verma,Suresh Verma,suresh.verma@outlook.com,+91-8205376329,Female,29,Human Resources,Sql Developer,bangalore,2019-09-26,22,1552305,Average,True
+1333,Arjun,Singh,Arjun Singh,invalid-email,+91-8014693343,Unknown,54,Finance,Not specified,Bengaluru,2020-11-30,3,406070,Excellent,True
+1558,Meera,Mehta,Meera Mehta,meera.mehta@hotmail.com,916185892639,Female,40,Finance,SQL Developer,Chennai,2019-10-30,29,810800,Average,True
+1348,Pooja,Mehta,Pooja Mehta,pooja.mehta@yahoo.com,+91-9951791121,Female,22,Human Resources,Data Engineer,Bengaluru,2021-08-24,2,1484005,Average,True
+1287,Meera,Pillai,Meera Pillai,meera.pillai@company.in,+91-8523735861,Male,52,IT,data analyst,Mumbai,2023-01-15,20,1462257,Average,False
+1277,Priya,Patel,Priya Patel,priya.patel@yahoo.com,+91-6793631899,Female,31,Human Resources,Finance Analyst,Chennai,2021-09-08,14,752882,Not Rated,True
+1380,Arjun,Nair,Arjun Nair,arjun.nair@yahoo.com,+91-6125666952,Female,24,Operations,HR Executive,hyderabad,2022-09-09,25,788633,Poor,True
+1299,Pooja,Sharma,Pooja Sharma,pooja.sharma@hotmail.com,896-6835728,Female,48,IT,SQL Developer,Delhi,2022-08-23,26,609443,Not Rated,False
+1779,Meera,Patel,Meera Patel,meera.patel@yahoo.com,+91-8150208433,Female,37,Human Resources,BI Developer,Chennai,2023-01-12,16,1549864,Good,True
+1782,Aakash,Joshi,Aakash Joshi,aakash.joshi@gmail,+91-8632627835,Unknown,42,Marketing,Data Analyst,Bengaluru,2023-05-21,14,1027322,Not Rated,True
+1021,Ravi,Iyer,Ravi Iyer,ravi.iyer@gmail.com,+91-8449142215,Male,26,Finance,BI Developer,Bengaluru,2022-12-23,5,603432,Average,True
+1022,Ananya,Verma,Ananya Verma,ananya.verma@yahoo.com,Unknown,Male,29,Human Resources,SENIOR ANALYST,Chennai,2018-10-19,3,1432913,High Performer,True
+1615,Rahul,Pillai,Rahul Pillai,rahul.pillai@outlook.com,+91-6060062145,Unknown,25,IT,Not specified,bangalore,2019-12-01,3,665946,Excellent,True
+1618,Vikram,Sharma,Vikram Sharma,vikram.sharma@hotmail.com,+91-9074387556,Male,55,Marketing,Senior Analyst,bangalore,2021-01-29,7,33379,Average,False
+1577,Ananya,Patel,Ananya Patel,ananya.patel@gmail.com,+91-7210565696,Female,47,Sales,Senior Analyst,Pune,2020-04-11,6,1051288,Average,False
+1056,ANANYA,RAO,ANANYA RAO,ananya.rao@hotmail.com,+91-9238482108,Female,40,Marketing,Senior Analyst,hyderabad,2021-01-20,21,798978,Average,False
+1526,Neha,Patel,Neha Patel,neha.patel@yahoo.com,+91-9115351748,Female,41,Sales,Data Engineer,Hyderabad,2020-06-08,20,333095,High Performer,True
+1455,Rahul,Iyer,Rahul Iyer,rahul.iyer@company.in,962-8964404,Unknown,57,Finance,SQL Developer,Pune,2018-07-11,17,409888,High Performer,True
+1580,Sneha,Singh,Sneha Singh,sneha.singh@outlook.com,+91-6795109167,Female,45,Operations,data analyst,Hyderabad,2021-03-19,13,1182818,Excellent,True
+1739,Vikram,Iyer,Vikram Iyer,vikram.iyer@hotmail.com,+91-6460955243,Female,58,Human Resources,Senior Analyst,hyderabad,2019-12-07,24,433290,Excellent,True
+1420,Vikram,Reddy,Vikram Reddy,vikram.reddy@gmail.com,+91-7523950345,Female,37,Marketing,Finance Analyst,bangalore,2021-07-14,11,1059250,Average,False
+1471,Kiran,Mishra,Kiran Mishra,kiran.mishra@company.in,+91-7821460610,Unknown,53,Human Resources,data analyst,Mumbai,2023-03-07,22,528702,Good,False
+1165,Ravi,Mehta,Ravi Mehta,ravi.mehta@hotmail.com,+91-6977337913,Unknown,34,Marketing,Manager,Hyderabad,2000-01-01,28,764623,Excellent,True
+1213,Arjun,Iyer,Arjun Iyer,Not specified,+91-9270228642,Unknown,56,Marketing,Not specified,Not specified,2022-07-15,25,390943,High Performer,False
+1320,Kiran,Verma,Kiran Verma,kiran.verma@gmail.com,+91-6530924113,Female,37,Finance,SQL Developer,Hyderabad,2018-07-21,12,1681819,Not Rated,True
+1525,Suresh,Joshi,Suresh Joshi,suresh.joshi@gmail.com,+91-8232212989,Female,48,Operations,SQL Developer,Bombay,2022-04-19,21,1260584,Average,True
+1796,Ananya,Pillai,Ananya Pillai,ananya.pillai@outlook.com,917551558895,Female,40,Operations,data analyst,bangalore,2022-07-12,19,365327,Excellent,False
+1147,Kiran,Sharma,Kiran Sharma,Not specified,+91-6497024805,Male,22,Sales,SQL Developer,MUMBAI,2021-03-16,11,50,Good,True
+1682,Divya,Pillai,Divya Pillai,divya.pillai@outlook.com,+91-7962567118,Unknown,22,Finance,BI Developer,Pune,2023-07-03,17,1193960,Average,False
+1609,Swati,Reddy,Swati Reddy,swati.reddy@outlook.com,+91-7340059485,Unknown,46,Human Resources,Data Analyst,Chennai,2019-05-31,10,1328168,Excellent,True
+1168,Ananya,Gupta,Ananya Gupta,ananya.gupta@outlook.com,+91-9612454812,Male,41,Human Resources,Manager,hyderabad,2022-05-11,13,1230217,Good,True
+1433,Sneha,Iyer,Sneha Iyer,Not specified,+91-8379050651,Female,55,Marketing,SQL Developer,Bangalore,2020-03-27,13,-5000,Excellent,False
+1698,Kiran,Reddy,Kiran Reddy,kiran.reddy@outlook.com,+91-9673767577,Unknown,48,Human Resources,Data Engineer,Pune,2019-05-08,10,611078,Excellent,False
+1270,Suresh,Verma,Suresh Verma,Not specified,+91-9679815234,Male,25,Finance,data analyst,Mumbai,2022-10-07,18,9999999,Good,False
+1180,Ananya,Joshi,Ananya Joshi,ananya.joshi@hotmail.com,Unknown,Female,31,Operations,Data Analyst,Pune,2021-07-06,12,1527598,Excellent,True
+1496,Ananya,Patel,Ananya Patel,ananya.patel@hotmail.com,+91-8916845891,Male,27,Finance,data analyst,Pune,2022-10-17,29,981963,Average,True
+1213,Unknown,Unknown,Unknown,employee94@hotmail.com,+91-6054914778,Male,40,Finance,data analyst,Mumbai,2022-09-02,11,1552821,Excellent,True
+1632,Arjun,Verma,Arjun Verma,Not specified,+91-8111613686,Female,55,Human Resources,Data Analyst,hyderabad,2020-09-06,14,1251510,Average,True
+1232,Divya,Iyer,Divya Iyer,divya.iyer@gmail.com,+91-7702395148,Female,45,IT,HR Executive,Not specified,2018-01-03,0,1202193,Good,False
+1192,Arjun,Iyer,Arjun Iyer,arjun.iyer@outlook.com,+91-8828443248,Male,27,Sales,SQL Developer,Hyderabad,2021-09-29,9,44996,Excellent,False
+1589,Meera,Rao,Meera Rao,meera.rao@gmail.com,+91-6512036736,Unknown,54,Finance,SQL Developer,bangalore,2021-05-14,16,1665071,Not Rated,False
+1660,Swati,Sharma,Swati Sharma,swati.sharma@outlook.com,+91-7720668210,Female,47,Human Resources,Data Analyst,Not specified,2023-02-02,28,1456233,High Performer,False
+1019,Rahul,Iyer,Rahul Iyer,rahul.iyer@gmail.com,+91-6436893312,Male,40,Operations,Finance Analyst,Not specified,2018-05-09,9,750936,Excellent,True
+1731,Ananya,Patel,Ananya Patel,ananya.patel@hotmail.com,+91-9832947482,Unknown,30,Sales,SQL Developer,MUMBAI,2018-08-28,6,779185,High Performer,True
+1301,Sneha,Mehta,Sneha Mehta,sneha.mehta@outlook.com,+91-6277929117,Female,38,Finance,SQL Developer,Bangalore,2020-10-28,0,1251056,Excellent,True
+1614,Aakash,Nair,Aakash Nair,aakash.nair@gmail.com,+91-6855069520,Male,47,Sales,BI Developer,chennai,2018-03-06,30,499409,Excellent,True
+1068,Kiran,Mishra,Kiran Mishra,kiran.mishra@gmail.com,+91-8555337302,Male,42,Human Resources,SENIOR ANALYST,bangalore,2021-09-30,8,955409,Excellent,False
+1108,Aakash,Sharma,Aakash Sharma,aakash.sharma@hotmail.com,+91-7736408179,Female,39,Marketing,Manager,Delhi,2022-07-26,16,1084966,Excellent,True
+1057,Swati,Iyer,Swati Iyer,swati.iyer@gmail.com,Unknown,Female,34,Sales,SENIOR ANALYST,Pune,2022-08-14,29,1740368,Average,False
+1013,Vikram,Verma,Vikram Verma,vikram.verma@gmail.com,+91-9248296389,Female,28,Finance,Data Engineer,Bengaluru,2018-09-04,3,440788,Good,True
+1513,Unknown,Unknown,Unknown,employee108@hotmail.com,+91-8765233838,Male,32,Operations,Finance Analyst,Chennai,2020-02-08,14,41188,Poor,False
+1777,Meera,Sharma,Meera Sharma,meera.sharma@gmail.com,+91-7529426298,Male,42,Sales,BI Developer,bangalore,2021-06-07,4,42656,Excellent,False
+1214,Meera,Singh,Meera Singh,meera.singh@company.in,+91-8590575789,Unknown,56,Finance,Finance Analyst,Chennai,2018-06-14,28,1081497,Not Rated,True
+1338,Kiran,Mishra,Kiran Mishra,kiran.mishra@outlook.com,+91-8081052775,Male,35,Finance,SQL Developer,Bombay,2021-07-13,7,1466794,Good,True
+1005,vikram,rao,vikram rao,vikram.rao@gmail.com,+91-6632966915,Male,51,Finance,Not specified,Pune,2022-10-23,9,9999999,Excellent,True
+1366,Meera,Pillai,Meera Pillai,Not specified,+91-6464013969,Male,29,IT,Senior Analyst,bangalore,2000-01-01,14,1161528,Not Rated,False
+1749,rahul,mehta,rahul mehta,rahul.mehta@outlook.com,918135774649,Male,41,IT,Not specified,hyderabad,2020-04-15,6,1695320,High Performer,True
+1549,Aakash,Iyer,Aakash Iyer,aakash.iyer@outlook.com,06293039905,Female,24,Sales,BI Developer,Pune,2022-11-03,23,1186962,Average,False
+1262,Suresh,Kumar,Suresh Kumar,suresh.kumar@yahoo.com,+91-8917160520,Male,42,Marketing,SQL Developer,Mumbai,2000-01-01,15,407890,Excellent,True
+1288,Vikram,Iyer,Vikram Iyer,Not specified,+91-7300312565,Unknown,37,IT,Sql Developer,bangalore,2021-08-07,26,1559151,Excellent,True
+1582,divya,reddy,divya reddy,Not specified,+91-6413749776,Female,47,Sales,SENIOR ANALYST,Chennai,2021-07-08,22,517266,Good,True
+1050,Pooja,Gupta,Pooja Gupta,pooja.gupta@yahoo.com,+91-8839319571,Male,41,Sales,Data Analyst,bangalore,2018-04-14,29,746145,Excellent,True
+1203,Divya,Rao,Divya Rao,divya.rao@company.in,+91-9296697093,Female,33,IT,Senior Analyst,Mumbai,2019-03-28,5,1311224,Excellent,True
+1125,Divya,Mehta,Divya Mehta,divya.mehta@gmail.com,+91-8001548533,Unknown,40,IT,HR Executive,Hyderabad,2019-07-08,14,526950,Average,False
+1758,Aakash,Pillai,Aakash Pillai,aakash.pillai@gmail.com,+91-8843668785,Male,50,IT,SQL Developer,Not specified,2000-01-01,12,1466573,Good,True
+1629,Meera,Rao,Meera Rao,meera.rao@company.in,+91-8168076965,Male,57,Sales,Data Analyst,Chennai,2000-01-01,2,884199,Average,True
+1329,Arjun,Pillai,Arjun Pillai,arjun.pillai@company.in,+91-7475817955,Unknown,51,Sales,Data Engineer,Bengaluru,2021-05-11,10,1199913,Average,True
+1774,aakash,patel,aakash patel,aakash.patel@hotmail.com,+91-8321554322,Unknown,30,Marketing,Finance Analyst,bangalore,2020-03-11,26,1603849,Good,True
+1401,Divya,Joshi,Divya Joshi,divya.joshi@company.in,+91-9281204295,Female,25,Sales,data analyst,hyderabad,2000-01-01,29,1647837,Excellent,True
+1012,Ananya,Pillai,Ananya Pillai,Not specified,Unknown,Unknown,36,Human Resources,Finance Analyst,Chennai,2022-12-19,27,1577154,High Performer,False
+1794,Rahul,Kumar,Rahul Kumar,rahul.kumar@outlook.com,+91-6511677101,Male,47,IT,Sql Developer,MUMBAI,2022-01-26,23,1754314,Excellent,True
+1184,Divya,Gupta,Divya Gupta,divya.gupta@outlook.com,+91-7351021444,Unknown,27,Operations,HR Executive,MUMBAI,2022-04-12,19,678359,Excellent,False
+1315,Sneha,Joshi,Sneha Joshi,sneha.joshi@gmail.com,+91-7900764163,Male,38,Human Resources,data analyst,Bengaluru,2021-10-07,20,947987,High Performer,False
+1623,Ananya,Nair,Ananya Nair,ananya.nair@gmail.com,+91-6141131770,Female,26,Sales,data analyst,Mumbai,2021-05-06,12,1036149,Poor,False
+1757,Ananya,Patel,Ananya Patel,ananya.patel@yahoo.com,+91-8832148790,Unknown,40,Finance,Not specified,Bangalore,2019-12-07,14,1027322,Good,False
+1215,Pooja,Kumar,Pooja Kumar,pooja.kumar@hotmail.com,+91-7301566516,Unknown,40,Sales,HR Executive,Pune,2021-11-02,10,1487661,Excellent,False
+1201,Ravi,Patel,Ravi Patel,ravi.patel@gmail.com,+91-6704994153,Female,27,Human Resources,data analyst,Bombay,2000-01-01,4,445931,High Performer,False
+1097,Priya,Joshi,Priya Joshi,priya.joshi@yahoo.com,+91-6577622607,Male,43,Marketing,Finance Analyst,Delhi,2000-01-01,22,1627857,Excellent,False
+1491,Neha,Patel,Neha Patel,neha.patel@gmail.com,+91-7671087985,Male,51,IT,Sql Developer,MUMBAI,2023-03-05,1,492429,Good,True
+1305,Swati,Pillai,Swati Pillai,Not specified,+91-6469792084,Female,40,Finance,data analyst,Pune,2023-03-06,12,751166,Good,False
+1446,Meera,Rao,Meera Rao,meera.rao@outlook.com,+91-8106912159,Female,47,Marketing,Manager,Bombay,2018-11-26,24,1251364,High Performer,True
+1529,MEERA,SINGH,MEERA SINGH,Not specified,+91-8943659619,Female,46,Human Resources,SENIOR ANALYST,Bangalore,2022-04-25,16,1076057,High Performer,True
+1646,Rahul,Iyer,Rahul Iyer,rahul.iyer@yahoo.com,+91-8017854580,Unknown,33,IT,SENIOR ANALYST,Pune,2018-02-16,14,980280,Good,True
+1713,RAHUL,NAIR,RAHUL NAIR,rahul.nair@yahoo.com,+91-9669411645,Male,33,Finance,Not specified,Bengaluru,2023-04-03,12,1490329,Excellent,True
+1199,Unknown,Unknown,Unknown,employee142@company.in,+91-6239389148,Unknown,50,Marketing,Not specified,MUMBAI,2018-05-18,10,410328,Excellent,True
+1780,Neha,Kumar,Neha Kumar,neha.kumar@gmail.com,+91-8124682213,Female,24,IT,HR Executive,Not specified,2019-02-11,2,1595700,Good,False
+1281,Unknown,Unknown,Unknown,Not specified,+91-7622628777,Female,37,Human Resources,Data Engineer,Pune,2020-07-18,8,1027322,Poor,False
+1300,Meera,Rao,Meera Rao,meera.rao@outlook.com,+91-7515108851,Female,53,Sales,data analyst,Bombay,2018-07-02,14,88079,Average,True
+1193,Priya,Kumar,Priya Kumar,priya.kumar@yahoo.com,+91-7221649922,Unknown,57,Human Resources,HR Executive,hyderabad,2023-05-09,4,1318506,Good,False
+1429,Neha,Sharma,Neha Sharma,neha.sharma@outlook.com,+91-6120890371,Female,27,Finance,SQL Developer,Hyderabad,2020-01-03,15,1168606,Not Rated,False
+1088,Pooja,Mehta,Pooja Mehta,pooja.mehta@hotmail.com,+91-6550606479,Male,30,Operations,data analyst,Bangalore,2019-02-19,15,1374468,Not Rated,True
+1788,Kiran,Verma,Kiran Verma,kiran.verma@yahoo.com,+91-7498414375,Unknown,55,Marketing,Finance Analyst,chennai,2023-02-19,18,86349,Poor,True
+1543,Suresh,Iyer,Suresh Iyer,suresh.iyer@outlook.com,+91-8508119100,Unknown,56,IT,SQL Developer,Bangalore,2000-01-01,19,118895,Good,False
+1018,Meera,Nair,Meera Nair,meera.nair@hotmail.com,Unknown,Male,46,IT,Data Analyst,Chennai,2021-01-20,16,1320542,Excellent,True
+1035,Ravi,Patel,Ravi Patel,ravi.patel@gmail.com,+91-7634550216,Unknown,44,Sales,BI Developer,Pune,2020-08-08,2,946802,Poor,True
+1703,Meera,Iyer,Meera Iyer,meera.iyer@company.in,07769224170,Female,53,IT,Senior Analyst,Pune,2019-02-24,13,1027322,Not Rated,True
+1154,Priya,Nair,Priya Nair,priya.nair@hotmail.com,+91-8783494552,Unknown,58,Sales,SENIOR ANALYST,Not specified,2021-10-20,29,1556875,High Performer,True
+1306,Neha,Kumar,Neha Kumar,neha.kumar@gmail.com,+91-6364821968,Female,46,Marketing,Manager,Chennai,2018-06-10,3,0,Excellent,True
+1106,Unknown,Unknown,Unknown,employee156@yahoo.com,+91-6281321374,Female,23,Finance,Data Engineer,Not specified,2018-01-01,13,742989,Average,True
+1509,Ravi,Singh,Ravi Singh,ravi.singh@hotmail.com,+91-6491650481,Male,36,Finance,Senior Analyst,Bengaluru,2018-08-19,6,835863,Excellent,False
+1421,Unknown,Unknown,Unknown,employee158@hotmail.com,+91-6084662344,Male,40,Human Resources,SENIOR ANALYST,MUMBAI,2022-03-17,19,551625,Excellent,False
+1732,Aakash,Mehta,Aakash Mehta,aakash.mehta@outlook.com,+91-6160535661,Male,39,IT,HR Executive,chennai,2019-05-03,24,1027322,Average,False
+1185,Arjun,Verma,Arjun Verma,arjun.verma@yahoo.com,+91-9708139559,Female,40,Finance,HR Executive,chennai,2000-01-01,11,668458,Not Rated,True
+1641,Meera,Pillai,Meera Pillai,Not specified,+91-8210876606,Female,36,Marketing,HR Executive,Not specified,2020-10-12,25,1416906,High Performer,False
+1428,Divya,Mishra,Divya Mishra,divya.mishra@company.in,+91-7145119397,Female,28,IT,Data Engineer,MUMBAI,2020-10-02,4,1349126,Not Rated,True
+1494,Meera,Pillai,Meera Pillai,meera.pillai@company.in,Unknown,Female,37,IT,Manager,Mumbai,2019-01-25,29,1700998,Average,True
+1103,Meera,Nair,Meera Nair,meera.nair@gmail.com,+91-7359418693,Female,25,Human Resources,Data Analyst,Bengaluru,2020-05-07,6,451153,Not Rated,True
+1646,Neha,Joshi,Neha Joshi,neha.joshi@gmail.com,+91-7676329121,Unknown,36,Sales,Manager,bangalore,2022-12-31,4,388714,Poor,False
+1665,Kiran,Patel,Kiran Patel,kiran.patel@hotmail.com,+91-6419728551,Male,46,IT,Finance Analyst,MUMBAI,2019-09-21,27,1264174,High Performer,True
+1199,Divya,Joshi,Divya Joshi,divya.joshi@gmail.com,+91-6429740169,Female,33,IT,BI Developer,Hyderabad,2021-04-28,2,956535,Excellent,True
+1057,Rahul,Nair,Rahul Nair,Not specified,+91-6884369501,Male,42,Finance,Data Analyst,Mumbai,2022-01-26,19,1502506,Excellent,False
+1530,Swati,Verma,Swati Verma,swati.verma@company.in,+91-8159374355,Female,44,Marketing,BI Developer,Hyderabad,2022-11-06,27,1642474,Good,False
+1586,Ravi,Joshi,Ravi Joshi,ravi.joshi@company.in,+91-8866407741,Female,23,IT,HR Executive,Delhi,2018-04-08,9,541536,Average,False
+1519,Aakash,Iyer,Aakash Iyer,aakash.iyer@gmail.com,+91-8640665603,Female,44,Operations,Sql Developer,Not specified,2022-11-05,14,981088,Good,True
+1357,Vikram,Joshi,Vikram Joshi,vikram.joshi@company.in,+91-7872567668,Female,58,Sales,SQL Developer,Bombay,2019-08-26,3,1596302,Poor,False
+1058,pooja,rao,pooja rao,pooja.rao@company.in,+91-8729212054,Female,34,IT,Finance Analyst,Not specified,2023-06-16,15,1746217,High Performer,False
+1511,Aakash,Gupta,Aakash Gupta,aakash.gupta@outlook.com,+91-9380781824,Female,53,Marketing,SENIOR ANALYST,MUMBAI,2020-06-02,14,484821,High Performer,True
+1666,Unknown,Unknown,Unknown,Not specified,918301389619,Female,33,Finance,Not specified,hyderabad,2019-08-07,17,522011,Average,False
+1188,Ravi,Mishra,Ravi Mishra,ravi.mishra@gmail.com,+91-8463252622,Female,27,Sales,SQL Developer,chennai,2000-01-01,17,1534952,Average,True
+1064,Ravi,Verma,Ravi Verma,ravi.verma@outlook.com,+91-6970172879,Unknown,40,IT,Sql Developer,Delhi,2019-02-24,8,464934,Average,True
+1429,kiran,kumar,kiran kumar,kiran.kumar@outlook.com,+91-6394955891,Male,40,Finance,Data Engineer,Hyderabad,2022-08-31,19,950692,Average,True
+1619,Pooja,Patel,Pooja Patel,pooja.patel@hotmail.com,+91-8483321097,Male,43,Human Resources,HR Executive,bangalore,2000-01-01,4,764670,Good,True
+1520,Ananya,Mehta,Ananya Mehta,ananya.mehta@gmail.com,XXXXXXXXXX,Male,34,Operations,BI Developer,Chennai,2020-12-30,21,652599,Average,False
+1592,Aakash,Kumar,Aakash Kumar,aakash.kumar@hotmail.com,+91-7491712941,Female,43,IT,SQL Developer,Mumbai,2023-03-15,14,-5000,Good,True
+1720,AAKASH,SHARMA,AAKASH SHARMA,aakash.sharma@company.in,+91-8798329306,Unknown,42,Finance,Data Analyst,Bangalore,2000-01-01,21,706645,Not Rated,False
+1391,swati,nair,swati nair,swati.nair@gmail.com,+91-8167410280,Male,40,Human Resources,BI Developer,Bombay,2000-01-01,8,1032693,Excellent,False
+1368,Neha,Reddy,Neha Reddy,neha.reddy@hotmail.com,+91-7859336382,Male,31,Operations,Finance Analyst,Pune,2021-09-28,9,1653592,Average,True
+1541,Sneha,Mishra,Sneha Mishra,sneha.mishra@outlook.com,+91-7345840745,Male,55,Finance,Data Engineer,Bombay,2023-02-18,22,795491,Excellent,True
+1481,Swati,Mishra,Swati Mishra,swati.mishra@hotmail.com,+91-7727869461,Male,26,Sales,Finance Analyst,Not specified,2018-06-03,1,63550,Good,True
+1705,ANANYA,GUPTA,ANANYA GUPTA,ananya.gupta@hotmail.com,+91-8213493993,Male,47,Human Resources,HR Executive,hyderabad,2022-09-04,30,1563322,Excellent,True
+1113,Kiran,Kumar,Kiran Kumar,kiran.kumar@hotmail.com,+91-9278959330,Female,43,Finance,Finance Analyst,Pune,2021-01-08,14,1674702,Good,True
+1349,Arjun,Pillai,Arjun Pillai,arjun.pillai@company.in,+91-9783421979,Male,30,Finance,Not specified,Bombay,2000-01-01,8,50,Good,True
+1232,Suresh,Mehta,Suresh Mehta,suresh.mehta@yahoo.com,Unknown,Female,49,Human Resources,Finance Analyst,Not specified,2023-01-06,29,1482238,Excellent,False
+1221,Rahul,Mishra,Rahul Mishra,rahul.mishra@gmail.com,+91-6801178627,Male,53,IT,Manager,Pune,2018-07-29,27,1241422,Excellent,True
+1069,Swati,Joshi,Swati Joshi,swati.joshi@outlook.com,+91-6914625337,Male,33,Finance,BI Developer,chennai,2019-06-19,9,1483825,Not Rated,True
+1542,Aakash,Iyer,Aakash Iyer,aakash.iyergmail.com,+91-9538657911,Male,57,IT,Finance Analyst,Chennai,2018-12-18,20,1609717,Excellent,False
+1539,Neha,Gupta,Neha Gupta,neha.gupta@outlook.com,+91-8007018111,Male,44,IT,SQL Developer,Bengaluru,2000-01-01,12,1615370,Excellent,False
+1264,Divya,Mehta,Divya Mehta,divya.mehta@company.in,+91-8739872850,Unknown,33,Human Resources,HR Executive,hyderabad,2000-01-01,22,1222249,Not Rated,False
+1634,Sneha,Kumar,Sneha Kumar,Not specified,+91-8638923659,Female,40,IT,Data Analyst,Bengaluru,2019-04-24,5,50,Good,True
+1161,Rahul,Kumar,Rahul Kumar,rahul.kumar@outlook.com,+91-9894830212,Unknown,22,Finance,BI Developer,chennai,2022-11-10,19,876032,Good,True
+1691,Suresh,Patel,Suresh Patel,suresh.patel@hotmail.com,+91-8431451603,Male,58,Operations,SQL Developer,chennai,2022-11-27,5,1038076,Excellent,False
+1701,Rahul,Rao,Rahul Rao,Not specified,+91-6257189761,Unknown,58,Human Resources,Sql Developer,chennai,2022-01-12,30,950972,Average,False
+1675,Ravi,Nair,Ravi Nair,ravi.nair@outlook.com,+91-7564547781,Female,40,Marketing,Senior Analyst,Delhi,2022-10-03,29,378868,High Performer,False
+1093,Suresh,Joshi,Suresh Joshi,suresh.joshi@yahoo.com,+91-7032398249,Female,36,IT,Data Engineer,Bangalore,2021-01-18,1,9999999,Average,False
+1596,Unknown,Unknown,Unknown,employee202@gmail.com,+91-8943369572,Unknown,28,IT,Manager,hyderabad,2020-04-16,16,-5000,Good,True
+1049,Ravi,Iyer,Ravi Iyer,ravi.iyer@company.in,+91-9625476370,Male,31,Marketing,Data Analyst,bangalore,2019-11-25,15,1363398,Average,False
+1740,Arjun,Mehta,Arjun Mehta,Not specified,+91-7368604973,Female,26,IT,Manager,chennai,2000-01-01,5,1517038,Good,True
+1776,Meera,Mehta,Meera Mehta,meera.mehta@hotmail.com,+91-9913307055,Female,42,Sales,Finance Analyst,Chennai,2023-05-20,14,386030,Good,True
+1295,MEERA,RAO,MEERA RAO,meera.rao@gmail.com,Unknown,Unknown,27,Operations,HR Executive,Chennai,2020-10-06,11,1498850,Not Rated,True
+1398,Rahul,Iyer,Rahul Iyer,rahul.iyer@gmail.com,+91-7146476046,Male,43,Marketing,Sql Developer,Delhi,2020-04-04,7,974290,Excellent,False
+1323,Unknown,Unknown,Unknown,employee208@hotmail.com,+91-8774732090,Male,38,Sales,HR Executive,Hyderabad,2000-01-01,16,1351443,Good,True
+1405,Ravi,Reddy,Ravi Reddy,ravi.reddy@gmail.com,+91-8950019339,Male,26,Human Resources,Senior Analyst,Delhi,2021-12-04,1,429758,High Performer,True
+1132,Kiran,Mishra,Kiran Mishra,kiran.mishra@outlook.com,+91-7743180954,Female,28,Sales,SENIOR ANALYST,Delhi,2000-01-01,28,1020241,Poor,True
+1104,Suresh,Reddy,Suresh Reddy,suresh.reddy@outlook.com,+91-6644082961,Male,25,Finance,Data Engineer,bangalore,2019-04-29,26,476851,Good,False
+1773,meera,pillai,meera pillai,meera.pillai@company.in,+91-7054786446,Female,48,Finance,Manager,Not specified,2020-11-27,30,661882,Excellent,False
+1010,Aakash,Sharma,Aakash Sharma,aakash.sharma@yahoo.com,+91-7333761598,Male,48,Sales,data analyst,Chennai,2022-10-28,8,1027322,Not Rated,True
+1712,Sneha,Gupta,Sneha Gupta,sneha.gupta@hotmail.com,+91-8404430111,Unknown,46,Sales,data analyst,MUMBAI,2020-01-18,10,1221534,Excellent,True
+1545,Rahul,Reddy,Rahul Reddy,rahul.reddy@yahoo.com,+91-7812558340,Male,46,Finance,Finance Analyst,Delhi,2020-02-10,21,1578854,Average,True
+1090,Aakash,Rao,Aakash Rao,aakash.rao@gmail,+91-6158929824,Female,52,Human Resources,Data Analyst,bangalore,2018-06-22,23,1081927,Good,True
+1023,Ravi,Patel,Ravi Patel,ravi.patel@hotmail.com,+91-7171288962,Unknown,58,Sales,Finance Analyst,Chennai,2019-01-05,30,1112471,High Performer,False
+1372,Aakash,Iyer,Aakash Iyer,aakash.iyer@hotmail.com,919391606121,Female,36,IT,Senior Analyst,hyderabad,2021-07-12,27,1009607,Average,True
+1584,Neha,Nair,Neha Nair,neha.nair@hotmail.com,+91-8086675353,Female,26,IT,Manager,MUMBAI,2019-11-03,7,409818,Excellent,False
+1364,aakash,patel,aakash patel,aakash.patel@gmail.com,+91-6237628826,Female,24,Human Resources,Manager,Hyderabad,2018-06-26,18,1657497,Excellent,True
+1321,Swati,Mehta,Swati Mehta,swati.mehta@outlook.com,+91-6360474643,Female,42,IT,BI Developer,Bombay,2021-10-22,9,991411,Excellent,True
+1242,Aakash,Sharma,Aakash Sharma,aakash.sharma@gmail.com,+91-7279810812,Male,28,Marketing,Data Engineer,Bangalore,2018-01-31,10,118916,Excellent,False
+1689,Neha,Singh,Neha Singh,neha.singh@outlook.com,+91-9867939656,Female,40,Finance,data analyst,Bangalore,2000-01-01,4,828473,Excellent,True
+1402,Aakash,Iyer,Aakash Iyer,aakash.iyer@gmail.com,+91-9851611772,Male,32,Human Resources,SQL Developer,chennai,2023-04-04,4,1676914,Not Rated,False
+1074,Ravi,Mishra,Ravi Mishra,ravi.mishra@outlook.com,+91-8823642917,Female,57,Operations,Data Analyst,Mumbai,2021-11-07,21,1563955,Good,True
+1127,Ananya,Sharma,Ananya Sharma,Not specified,+91-7704651250,Unknown,27,Operations,Senior Analyst,Chennai,2020-04-09,27,999110,Excellent,True
+1178,Arjun,Iyer,Arjun Iyer,arjun.iyer@hotmail.com,+91-9110563270,Female,52,Sales,SQL Developer,hyderabad,2022-09-02,22,116980,Average,False
+1338,Arjun,Mehta,Arjun Mehta,arjun.mehtagmail.com,+91-7013789043,Female,49,Sales,Not specified,Hyderabad,2020-12-06,16,1033627,Good,True
+1278,Rahul,Gupta,Rahul Gupta,rahul.gupta@outlook.com,867-9812402,Female,32,Human Resources,Not specified,Chennai,2018-05-29,13,1675846,Not Rated,True
+1211,Sneha,Joshi,Sneha Joshi,sneha.joshi@company.in,+91-6387615589,Female,49,Sales,data analyst,bangalore,2019-11-02,24,1121995,Good,True
+1548,Aakash,Pillai,Aakash Pillai,invalid-email,+91-6525174990,Female,28,Human Resources,Data Engineer,hyderabad,2000-01-01,29,1786532,Not Rated,False
+1613,Rahul,Singh,Rahul Singh,rahul.singh@yahoo.com,+91-7346087107,Female,34,Finance,Data Analyst,MUMBAI,2022-03-27,5,949240,Good,True
+1303,Neha,Rao,Neha Rao,Not specified,+91-8509661989,Male,57,Operations,Data Analyst,Bombay,2021-02-15,17,1649503,Good,True
+1612,Priya,Pillai,Priya Pillai,priya.pillai@outlook.com,+91-9461063355,Male,56,Marketing,data analyst,Bangalore,2019-04-27,23,568002,Poor,False
+1273,Sneha,Verma,Sneha Verma,sneha.verma@company.in,+91-7013346322,Female,40,Marketing,BI Developer,Bangalore,2021-06-30,10,1737418,Excellent,True
+1516,Suresh,Singh,Suresh Singh,suresh.singh@outlook.com,+91-6936338890,Male,28,Finance,Sql Developer,Bengaluru,2022-05-24,4,495985,High Performer,True
+1090,Kiran,Reddy,Kiran Reddy,kiran.reddy@outlook.com,+91-6752281823,Unknown,40,IT,data analyst,MUMBAI,2023-05-06,24,1187947,Good,False
+1412,Vikram,Patel,Vikram Patel,vikram.patel@yahoo.com,+91-7179171816,Male,53,Finance,Manager,bangalore,2018-09-17,13,338232,Average,True
+1160,Vikram,Joshi,Vikram Joshi,vikram.joshi@outlook.com,+91-7092235611,Male,45,Sales,Data Analyst,Bombay,2022-10-09,9,678038,Average,True
+1643,Arjun,Joshi,Arjun Joshi,arjun.joshi@hotmail.com,+91-6240197763,Female,40,IT,Finance Analyst,Mumbai,2022-06-24,29,1016664,Average,True
+1424,Rahul,Mishra,Rahul Mishra,Not specified,+91-7609345646,Unknown,52,Human Resources,HR Executive,Chennai,2023-05-03,20,1319784,Poor,True
+1630,Ravi,Singh,Ravi Singh,ravi.singh@outlook.com,+91-6485165310,Unknown,23,Operations,Manager,Bombay,2021-09-18,8,588495,Not Rated,False
+1791,Divya,Mishra,Divya Mishra,divya.mishra@hotmail.com,+91-7820126903,Female,40,Sales,SENIOR ANALYST,Chennai,2023-06-20,6,920320,High Performer,True
+1297,Swati,Sharma,Swati Sharma,swati.sharma@outlook.com,+91-7058050956,Unknown,52,Human Resources,Finance Analyst,Chennai,2020-11-05,5,512107,Average,True
+1506,Kiran,Singh,Kiran Singh,kiran.singh@company.in,+91-9777138293,Female,41,IT,Manager,Delhi,2021-08-20,14,1431981,Not Rated,True
+1728,Rahul,Gupta,Rahul Gupta,rahul.gupta@gmail.com,+91-6622390281,Male,52,Human Resources,SENIOR ANALYST,Bangalore,2019-09-03,19,1404216,High Performer,False
+1235,Suresh,Iyer,Suresh Iyer,suresh.iyer@yahoo.com,+91-9073784537,Unknown,38,IT,Manager,Hyderabad,2022-09-29,18,1027322,Excellent,True
+1590,Meera,Joshi,Meera Joshi,meera.joshi@gmail.com,+91-7323586087,Unknown,56,Human Resources,Data Engineer,Pune,2021-08-18,19,1596105,Excellent,False
+1512,Priya,Kumar,Priya Kumar,priya.kumar@yahoo.com,Unknown,Unknown,45,Finance,Manager,Hyderabad,2019-08-04,21,1090038,Average,True
+1751,Kiran,Reddy,Kiran Reddy,kiran.reddy@hotmail.com,+91-9614098856,Female,45,Finance,Data Analyst,chennai,2000-01-01,14,679261,Not Rated,True
+1121,Ananya,Mishra,Ananya Mishra,ananya.mishra@company.in,+91-9431426844,Female,24,IT,data analyst,hyderabad,2023-05-26,14,1610175,Not Rated,False
+1601,Neha,Joshi,Neha Joshi,neha.joshi@gmail.com,+91-8966458557,Female,51,IT,SENIOR ANALYST,Bangalore,2000-01-01,27,647160,Average,True
+1194,Meera,Mishra,Meera Mishra,meera.mishra@hotmail.com,+91-8884494006,Unknown,39,Finance,Senior Analyst,Pune,2018-07-07,22,391629,Excellent,False
+1196,Kiran,Pillai,Kiran Pillai,kiran.pillai@hotmail.com,+91-8373948273,Female,31,Sales,Finance Analyst,Bengaluru,2023-03-07,5,1718435,Excellent,False
+1348,Divya,Reddy,Divya Reddy,divya.reddy@hotmail.com,+91-8744265294,Male,28,Marketing,Finance Analyst,chennai,2019-04-27,15,1231552,Not Rated,True
+1480,Kiran,Nair,Kiran Nair,kiran.nair@outlook.com,+91-7558450763,Female,44,Operations,HR Executive,bangalore,2020-07-05,5,1241470,High Performer,False
+1011,Unknown,Unknown,Unknown,employee257@hotmail.com,+91-8943119201,Female,48,Human Resources,data analyst,Chennai,2020-09-05,1,801572,Poor,True
+1527,MEERA,MISHRA,MEERA MISHRA,meera.mishra@yahoo.com,917015252510,Male,36,Human Resources,Data Analyst,Bangalore,2021-01-09,0,1283597,Not Rated,True
+1047,Vikram,Sharma,Vikram Sharma,vikram.sharma@outlook.com,+91-7687817209,Male,46,Marketing,Sql Developer,Delhi,2000-01-01,30,706881,Not Rated,False
+1014,Suresh,Verma,Suresh Verma,suresh.verma@outlook.com,+91-9942465147,Female,48,Finance,data analyst,Chennai,2019-07-17,23,1496256,Excellent,True
+1396,Aakash,Kumar,Aakash Kumar,aakash.kumar@gmail.com,+91-6387622194,Male,52,Operations,Not specified,chennai,2022-05-17,6,1268213,Excellent,True
+1546,Ananya,Iyer,Ananya Iyer,ananya.iyer@company.in,+91-9249864004,Female,37,IT,Not specified,Bangalore,2023-05-28,2,1100844,Good,False
+1623,Meera,Joshi,Meera Joshi,meera.joshi@company.in,+91-6903603094,Male,27,Marketing,SENIOR ANALYST,Bangalore,2000-01-01,30,1177995,Not Rated,True
+1538,Suresh,Singh,Suresh Singh,suresh.singh@outlook.com,+91-6688170710,Male,24,Finance,data analyst,Not specified,2000-01-01,27,718796,Excellent,False
+1719,Rahul,Joshi,Rahul Joshi,rahul.joshi@gmail.com,+91-8711639209,Male,55,Finance,Senior Analyst,Pune,2020-02-27,22,590242,Excellent,True
+1388,Neha,Gupta,Neha Gupta,neha.gupta@company.in,+91-9488577553,Male,31,Operations,SQL Developer,Not specified,2022-10-22,14,409428,Good,False
+1047,Ravi,Joshi,Ravi Joshi,ravi.joshi@company.in,+91-7744997179,Female,50,Human Resources,HR Executive,chennai,2000-01-01,13,1078488,Average,False
+1257,Unknown,Unknown,Unknown,employee268@yahoo.com,+91-7176977900,Female,32,Human Resources,Manager,MUMBAI,2022-01-11,1,515146,Poor,True
+1140,Neha,Gupta,Neha Gupta,neha.gupta@yahoo.com,+91-9535607532,Male,34,Human Resources,Sql Developer,Bombay,2022-09-11,26,1381940,Good,True
+1207,Pooja,Pillai,Pooja Pillai,pooja.pillai@yahoo.com,+91-8111800452,Male,49,Marketing,Not specified,Bengaluru,2019-10-18,10,897820,Average,False
+1505,Aakash,Pillai,Aakash Pillai,aakash.pillai@company.in,+91-7773655347,Unknown,40,Finance,Finance Analyst,Not specified,2020-10-08,30,51012,Poor,True
+1240,Rahul,Mehta,Rahul Mehta,rahul.mehta@yahoo.com,+91-7429031013,Female,31,Operations,Not specified,Chennai,2022-06-08,19,1376578,Good,True
+1425,Meera,Kumar,Meera Kumar,meera.kumar@outlook.com,+91-9765660784,Unknown,38,IT,Not specified,Hyderabad,2021-10-27,20,1217446,Good,True
+1581,Suresh,Joshi,Suresh Joshi,suresh.joshi@gmail.com,+91-6431195673,Male,26,Finance,Sql Developer,bangalore,2020-03-27,25,59102,Average,True
+1353,Pooja,Verma,Pooja Verma,invalid-email,+91-8999958155,Male,57,Human Resources,Data Engineer,Bombay,2021-10-29,14,1033133,Good,True
+1158,Rahul,Sharma,Rahul Sharma,rahul.sharma@yahoo.com,+91-6285045092,Female,42,Marketing,SQL Developer,Pune,2020-01-26,14,1170101,Average,False
+1085,VIKRAM,MISHRA,VIKRAM MISHRA,vikram.mishra@yahoo.com,+91-8586068261,Male,55,Finance,SQL Developer,MUMBAI,2021-11-25,1,9999999,Excellent,False
+1458,pooja,reddy,pooja reddy,pooja.reddy@company.in,+91-8352472676,Female,22,Finance,BI Developer,Mumbai,2022-12-14,7,471139,High Performer,True
+1678,Priya,Kumar,Priya Kumar,Not specified,+91-7946744390,Male,55,Marketing,Senior Analyst,Bengaluru,2021-09-20,12,359113,Not Rated,True
+1073,Pooja,Reddy,Pooja Reddy,pooja.reddy@outlook.com,+91-9272659618,Male,29,Finance,SENIOR ANALYST,Not specified,2022-03-28,1,507792,Not Rated,False
+1642,Pooja,Singh,Pooja Singh,pooja.singh@company.in,Unknown,Unknown,31,Finance,HR Executive,Bombay,2020-02-20,16,1663066,Average,False
+1484,Meera,Sharma,Meera Sharma,meera.sharma@yahoo.com,+91-7904409842,Unknown,28,Human Resources,Data Engineer,Bombay,2000-01-01,30,606287,Excellent,True
+1771,Priya,Gupta,Priya Gupta,priya.gupta@company.in,+91-6584511650,Unknown,58,Sales,HR Executive,Hyderabad,2021-03-11,14,901629,Excellent,False
+1616,Sneha,Mishra,Sneha Mishra,Not specified,Unknown,Female,40,Marketing,BI Developer,bangalore,2018-04-03,12,1290809,Average,True
+1338,Ananya,Rao,Ananya Rao,ananya.rao@gmail.com,+91-7347424894,Unknown,44,Human Resources,Data Analyst,Chennai,2018-12-10,24,591069,High Performer,True
+1405,Arjun,Gupta,Arjun Gupta,arjun.gupta@hotmail.com,+91-6476003514,Female,38,Human Resources,Data Analyst,Not specified,2023-01-17,14,1283795,Excellent,False
+1102,Arjun,Rao,Arjun Rao,arjun.rao@company.in,+91-8217774604,Female,53,Sales,Data Engineer,hyderabad,2022-05-14,9,311012,Good,True
+1520,Vikram,Joshi,Vikram Joshi,vikram.joshi@company.in,+91-9296848489,Male,52,Operations,Data Analyst,Delhi,2022-10-12,1,339854,Good,False
+1120,Ravi,Sharma,Ravi Sharma,ravi.sharma@yahoo.com,+91-9277758858,Male,40,Marketing,SQL Developer,Bangalore,2019-07-04,28,613565,Good,True
+1270,Vikram,Singh,Vikram Singh,vikram.singh@gmail.com,XXXXXXXXXX,Male,31,Sales,BI Developer,Bangalore,2019-01-09,26,1576914,Excellent,True
+1576,Ravi,Patel,Ravi Patel,ravi.patel@outlook.com,+91-6573420239,Female,47,Human Resources,HR Executive,MUMBAI,2020-08-01,2,533175,Good,True
+1486,Suresh,Gupta,Suresh Gupta,suresh.gupta@hotmail.com,+91-8952647739,Male,40,Sales,SENIOR ANALYST,chennai,2019-02-06,3,798367,Excellent,False
+1148,Arjun,Reddy,Arjun Reddy,arjun.reddy@gmail,+91-7406947246,Unknown,43,Operations,BI Developer,Chennai,2019-12-24,18,400137,Excellent,True
+1743,SURESH,IYER,SURESH IYER,suresh.iyer@.com,+91-6853254184,Female,25,Marketing,HR Executive,chennai,2019-01-16,22,1639978,Good,False
+1017,Sneha,Reddy,Sneha Reddy,sneha.reddy@company.in,916781208412,Male,39,Human Resources,SQL Developer,Pune,2021-07-22,12,1258636,Good,False
+1587,Swati,Singh,Swati Singh,swati.singh@company.in,+91-9964737348,Male,23,Operations,HR Executive,Hyderabad,2021-10-31,14,50,Good,True
+1351,Rahul,Reddy,Rahul Reddy,rahul.reddy@company.in,+91-8628533537,Male,41,Operations,data analyst,hyderabad,2022-06-05,14,334467,Good,False
+1765,Aakash,Singh,Aakash Singh,aakash.singh@yahoo.com,+91-9894868679,Female,53,IT,SENIOR ANALYST,Bombay,2022-08-28,28,1505961,Excellent,False
+1488,Rahul,Mishra,Rahul Mishra,rahul.mishra@hotmail.com,916851546865,Female,28,Finance,Data Engineer,Delhi,2022-11-10,6,601102,Excellent,False
+1172,Meera,Joshi,Meera Joshi,meera.joshi@hotmail.com,+91-7842125920,Male,36,Marketing,BI Developer,Delhi,2021-01-23,2,303280,Not Rated,True
+1250,Aakash,Nair,Aakash Nair,aakash.nair@gmail,+91-6641029050,Male,50,Operations,Data Analyst,Not specified,2019-11-28,22,804499,Not Rated,True
+1039,Meera,Pillai,Meera Pillai,meera.pillai@outlook.com,Unknown,Male,42,Operations,Senior Analyst,bangalore,2018-12-03,22,692825,High Performer,True
+1283,Ananya,Iyer,Ananya Iyer,ananya.iyer@company.in,+91-9951322852,Unknown,48,Human Resources,SQL Developer,MUMBAI,2018-06-13,22,479545,Excellent,True
+1089,Arjun,Mehta,Arjun Mehta,arjun.mehta@company.in,+91-9553043688,Unknown,27,Marketing,Data Analyst,Bombay,2019-01-18,2,1056240,Good,True
+1069,Priya,Rao,Priya Rao,priya.rao@hotmail.com,+91-6509006662,Male,35,Finance,Data Engineer,Mumbai,2000-01-01,14,-5000,High Performer,True
+1081,Sneha,Kumar,Sneha Kumar,sneha.kumar@gmail.com,+91-6872502717,Unknown,48,Human Resources,Not specified,Hyderabad,2018-12-31,2,1285944,Excellent,True
+1212,Meera,Gupta,Meera Gupta,meera.gupta@company.in,+91-9701990020,Male,55,Finance,Finance Analyst,Bombay,2020-03-07,12,1027322,High Performer,True
+1338,Arjun,Mishra,Arjun Mishra,arjun.mishra@hotmail.com,+91-7143332519,Female,25,Sales,Senior Analyst,Bangalore,2023-06-07,16,1082871,Average,False
+1448,Swati,Nair,Swati Nair,swati.nair@hotmail.com,+91-8122436090,Female,32,Sales,BI Developer,Bengaluru,2020-04-06,5,334062,Not Rated,False
+1698,Ananya,Pillai,Ananya Pillai,ananya.pillai@company.in,+91-7852456283,Unknown,40,Human Resources,Finance Analyst,chennai,2022-11-14,12,441682,High Performer,True
+1051,Sneha,Sharma,Sneha Sharma,sneha.sharma@company.in,+91-8577335953,Male,55,Marketing,SQL Developer,Hyderabad,2019-12-05,14,1678047,Poor,True
+1031,Vikram,Iyer,Vikram Iyer,vikram.iyer@yahoo.com,+91-9539434845,Unknown,23,Sales,Sql Developer,Bengaluru,2018-07-29,10,1520339,Average,True
+1459,Neha,Kumar,Neha Kumar,neha.kumar@gmail.com,+91-8908503113,Male,34,Finance,Finance Analyst,Pune,2022-10-29,21,997342,Not Rated,False
+1600,Aakash,Reddy,Aakash Reddy,aakash.reddy@yahoo.com,+91-6774682704,Male,37,Finance,Senior Analyst,Chennai,2021-02-20,5,1038824,Excellent,True
+1510,Neha,Verma,Neha Verma,neha.verma@outlook.com,+91-6626819783,Unknown,40,Human Resources,Senior Analyst,Mumbai,2020-01-27,5,1648040,Excellent,False
+1383,Arjun,Joshi,Arjun Joshi,arjun.joshi@hotmail.com,Unknown,Female,40,Human Resources,Sql Developer,Mumbai,2000-01-01,1,1735883,Good,False
+1078,Sneha,Gupta,Sneha Gupta,sneha.gupta@outlook.com,+91-7936930132,Male,39,Human Resources,Finance Analyst,Chennai,2020-11-28,9,1758336,Average,False
+1227,Rahul,Sharma,Rahul Sharma,rahul.sharma@gmail.com,+91-7587581996,Female,51,IT,Manager,Bombay,2023-05-13,30,682264,Excellent,True
+1463,Neha,Iyer,Neha Iyer,neha.iyer@company.in,+91-8779855613,Unknown,29,Human Resources,SENIOR ANALYST,Hyderabad,2023-04-29,20,432331,Not Rated,True
+1456,Neha,Joshi,Neha Joshi,neha.joshi@yahoo.com,+91-6044325089,Male,37,Finance,Not specified,Bombay,2018-02-02,28,1259823,Not Rated,False
+1624,Neha,Gupta,Neha Gupta,neha.gupta@outlook.com,+91-9742821232,Male,50,Human Resources,Manager,Mumbai,2000-01-01,6,1027322,High Performer,True
+1116,Swati,Pillai,Swati Pillai,swati.pillai@gmail.com,+91-8976513517,Female,52,Sales,Finance Analyst,Chennai,2022-05-03,14,718318,Poor,False
+1787,Suresh,Singh,Suresh Singh,suresh.singh@outlook.com,+91-6911467912,Female,44,Operations,Data Engineer,Chennai,2022-08-17,0,961852,Excellent,False
+1377,Meera,Gupta,Meera Gupta,meera.gupta@yahoo.com,+91-9042783169,Male,38,Operations,SENIOR ANALYST,Chennai,2019-04-05,27,1380837,Not Rated,True
+1311,Meera,Singh,Meera Singh,meera.singh@hotmail.com,+91-8564937036,Male,27,IT,data analyst,Mumbai,2019-02-02,25,1438817,Average,False
+1214,suresh,joshi,suresh joshi,suresh.joshi@gmail.com,+91-6409221994,Female,46,Sales,data analyst,Pune,2021-10-07,14,376799,Average,False
+1457,Swati,Joshi,Swati Joshi,swati.joshi@gmail.com,+91-6223821957,Female,40,Marketing,Not specified,bangalore,2022-03-12,7,700772,High Performer,True
+1272,Arjun,Joshi,Arjun Joshi,arjun.joshi@hotmail.com,+91-7008636315,Unknown,35,Finance,Manager,Hyderabad,2023-03-13,21,400252,Average,False
+1722,Meera,Rao,Meera Rao,meera.rao@yahoo.com,+91-7521714121,Female,36,Human Resources,Sql Developer,Bengaluru,2000-01-01,13,996096,Excellent,False
+1502,Kiran,Singh,Kiran Singh,Not specified,+91-8881027733,Unknown,39,Human Resources,Sql Developer,bangalore,2000-01-01,19,1071792,Not Rated,True
+1156,Arjun,Mehta,Arjun Mehta,arjun.mehta@gmail.com,+91-8569387163,Unknown,54,Human Resources,Manager,Chennai,2018-12-04,7,1138906,Excellent,True
+1446,Sneha,Reddy,Sneha Reddy,sneha.reddy@outlook.com,+91-9478291959,Female,40,Finance,data analyst,chennai,2019-02-12,8,1110852,Poor,False
+1077,Pooja,Joshi,Pooja Joshi,pooja.joshi@hotmail.com,Unknown,Male,22,Human Resources,SQL Developer,Mumbai,2021-04-06,17,691784,Good,True
+1153,Ravi,Patel,Ravi Patel,ravi.patel@company.in,+91-7636114859,Female,30,IT,Sql Developer,Hyderabad,2019-07-06,6,1343382,High Performer,False
+1362,Ravi,Kumar,Ravi Kumar,ravi.kumar@company.in,+91-7695209898,Male,22,Finance,Sql Developer,Bangalore,2018-06-26,14,1389000,Poor,True
+1323,Divya,Mehta,Divya Mehta,divya.mehta@gmail.com,+91-6567958961,Unknown,41,Finance,Not specified,Bombay,2019-03-07,20,473248,Poor,False
+1296,Rahul,Mishra,Rahul Mishra,rahul.mishra@gmail.com,+91-8403293589,Male,39,Marketing,SENIOR ANALYST,Bombay,2019-09-22,4,465521,Not Rated,True
+1038,Aakash,Patel,Aakash Patel,aakash.patel@company.in,Unknown,Unknown,46,IT,data analyst,Chennai,2019-10-29,21,678444,Average,True
+1512,Ananya,Rao,Ananya Rao,ananya.rao@gmail.com,+91-8163575681,Unknown,51,Finance,Sql Developer,Delhi,2020-07-18,19,973629,Excellent,True
+1206,Aakash,Reddy,Aakash Reddy,aakash.reddy@outlook.com,+91-7456752978,Female,51,Finance,Data Engineer,Bengaluru,2019-11-01,29,72981,High Performer,False
+1034,Kiran,Mehta,Kiran Mehta,kiran.mehta@gmail.com,+91-6566590088,Female,55,Operations,SENIOR ANALYST,Not specified,2019-02-19,2,942768,Average,True
+1432,Divya,Mishra,Divya Mishra,divya.mishra@gmail.com,918278152876,Female,47,Sales,BI Developer,Not specified,2019-03-20,5,1193630,High Performer,True
+1432,Aakash,Singh,Aakash Singh,aakash.singh@yahoo.com,+91-6549203872,Male,22,Finance,BI Developer,Pune,2020-01-20,9,1230943,Average,True
+1535,Pooja,Mishra,Pooja Mishra,pooja.mishra@outlook.com,+91-9585456048,Female,45,Sales,Data Analyst,Bengaluru,2022-08-02,22,388825,Not Rated,True
+1523,Swati,Gupta,Swati Gupta,swati.gupta@outlook.com,+91-7548731742,Female,40,Marketing,HR Executive,hyderabad,2020-01-09,18,1039370,Average,True
+1386,Divya,Sharma,Divya Sharma,divya.sharma@hotmail.com,+91-7215155799,Male,28,IT,Finance Analyst,Mumbai,2019-05-03,5,1212136,Not Rated,False
+1444,Swati,Pillai,Swati Pillai,swati.pillai@gmail.com,+91-7130505773,Female,43,Finance,Data Engineer,Bombay,2020-07-05,23,420288,Good,False
+1703,Aakash,Iyer,Aakash Iyer,aakash.iyer@outlook.com,+91-9270892127,Unknown,42,Finance,Manager,Bangalore,2018-04-04,29,50,Good,False
+1246,Aakash,Nair,Aakash Nair,aakash.nair@gmail.com,+91-8220380779,Female,38,Human Resources,data analyst,Mumbai,2023-05-20,14,1724827,Not Rated,True
+1617,Aakash,Mishra,Aakash Mishra,aakash.mishra@hotmail.com,+91-9833996253,Unknown,41,Sales,Data Engineer,bangalore,2023-05-06,10,365306,Excellent,True
+1146,Ravi,Gupta,Ravi Gupta,ravi.gupta@hotmail.com,+91-9164829267,Female,55,Sales,Finance Analyst,hyderabad,2021-11-28,12,1574172,Excellent,True
+1697,Priya,Rao,Priya Rao,priya.rao@gmail.com,+91-9279960906,Female,25,Operations,Not specified,Hyderabad,2019-04-08,24,1218915,Good,False
+1503,Ananya,Mishra,Ananya Mishra,ananya.mishra@gmail.com,+91-8386604692,Male,47,Operations,HR Executive,Mumbai,2018-03-14,17,1027322,Excellent,False
+1297,Neha,Gupta,Neha Gupta,neha.gupta@hotmail.com,+91-8823595144,Unknown,30,Finance,Data Analyst,Delhi,2000-01-01,14,9999999,Excellent,True
+1474,Ananya,Kumar,Ananya Kumar,ananya.kumar@yahoo.com,+91-7889740931,Male,53,Human Resources,SENIOR ANALYST,Hyderabad,2020-02-24,22,1489598,High Performer,True
+1327,Ananya,Gupta,Ananya Gupta,ananya.gupta@outlook.com,Unknown,Unknown,38,Sales,Data Engineer,MUMBAI,2000-01-01,10,1027322,Not Rated,False
+1424,Priya,Iyer,Priya Iyer,priya.iyer@company.in,Unknown,Unknown,47,Marketing,Data Engineer,Mumbai,2021-02-23,16,1243556,Excellent,True
+1634,Ananya,Nair,Ananya Nair,ananya.nair@company.in,Unknown,Female,24,IT,Senior Analyst,Bengaluru,2021-05-24,6,1080168,Not Rated,True
+1150,Arjun,Mishra,Arjun Mishra,arjun.mishra@yahoo.com,+91-8006320271,Female,58,Human Resources,SQL Developer,hyderabad,2000-01-01,3,461240,Not Rated,True
+1408,Pooja,Pillai,Pooja Pillai,pooja.pillai@gmail.com,+91-9844748262,Female,43,Sales,data analyst,Bangalore,2018-01-14,20,1410357,Good,True
+1621,Rahul,Reddy,Rahul Reddy,rahul.reddy@yahoo.com,+91-6175199056,Male,36,Finance,BI Developer,Bangalore,2020-01-10,2,959314,Not Rated,True
+1024,Sneha,Reddy,Sneha Reddy,Not specified,+91-9045256972,Female,52,Finance,BI Developer,Not specified,2019-04-27,22,823473,High Performer,True
+1141,Aakash,Mishra,Aakash Mishra,Not specified,+91-7966062974,Unknown,44,Operations,BI Developer,Mumbai,2020-04-03,25,354344,Not Rated,False
+1065,Vikram,Reddy,Vikram Reddy,vikram.reddy@yahoo.com,+91-9632848054,Female,32,Operations,Finance Analyst,Chennai,2022-12-29,9,1346571,Good,False
+1789,Meera,Gupta,Meera Gupta,meera.gupta@gmail.com,+91-6635885849,Unknown,57,Human Resources,SQL Developer,Bangalore,2023-03-31,27,1477913,Not Rated,False
+1490,Priya,Verma,Priya Verma,priya.verma@outlook.com,09728775107,Female,28,Finance,Senior Analyst,Mumbai,2021-02-15,16,64116,Good,True
+1008,Ravi,Verma,Ravi Verma,ravi.verma@hotmail.com,+91-9532918799,Unknown,38,Human Resources,Not specified,hyderabad,2020-05-02,19,749986,High Performer,True
+1638,Priya,Rao,Priya Rao,priya.rao@outlook.com,+91-9826362839,Unknown,57,Marketing,data analyst,Bangalore,2023-05-11,4,898898,Good,True
+1092,Sneha,Nair,Sneha Nair,sneha.nair@yahoo.com,+91-6912234539,Female,33,IT,data analyst,hyderabad,2022-11-05,15,1330121,Poor,True
+1185,ARJUN,JOSHI,ARJUN JOSHI,arjun.joshi@yahoo.com,+91-6017719851,Female,43,Operations,Manager,Chennai,2000-01-01,20,584643,Good,False
+1117,Arjun,Sharma,Arjun Sharma,arjun.sharma@company.in,+91-8451514991,Female,36,Finance,HR Executive,Bombay,2000-01-01,25,1248002,Good,False
+1655,KIRAN,PATEL,KIRAN PATEL,kiran.patel@company.in,+91-9953144588,Male,41,Marketing,Not specified,Mumbai,2019-07-27,19,1796045,Excellent,False
+1100,Pooja,Singh,Pooja Singh,pooja.singh@hotmail.com,918139369476,Unknown,43,Human Resources,HR Executive,Pune,2022-11-02,9,484110,Not Rated,False
+1561,Swati,Verma,Swati Verma,swati.verma@gmail.com,+91-8923324008,Male,40,Human Resources,HR Executive,Bombay,2000-01-01,0,970224,Average,True
+1145,Unknown,Unknown,Unknown,employee375@outlook.com,09990662154,Female,29,IT,SENIOR ANALYST,MUMBAI,2021-12-17,14,1788014,Excellent,False
+1729,Kiran,Iyer,Kiran Iyer,kiran.iyer@company.in,Unknown,Unknown,26,IT,Manager,Bombay,2020-11-10,3,9999999,Average,False
+1462,Arjun,Iyer,Arjun Iyer,arjun.iyer@company.in,+91-8832699830,Female,34,Finance,Data Engineer,MUMBAI,2022-02-26,6,630312,Good,True
+1302,Pooja,Mehta,Pooja Mehta,invalid-email,+91-8698771618,Male,46,Finance,Senior Analyst,Bengaluru,2021-01-13,13,1768466,Good,True
+1371,Kiran,Mishra,Kiran Mishra,kiran.mishra@gmail.com,+91-8552087856,Female,48,IT,BI Developer,MUMBAI,2022-02-09,10,1058104,Average,False
+1440,Ananya,Singh,Ananya Singh,ananya.singh@company.in,+91-7414877840,Unknown,40,IT,SQL Developer,chennai,2023-05-30,25,554515,Good,False
+1679,Divya,Sharma,Divya Sharma,divya.sharma@company.in,+91-8818240521,Female,34,Finance,SENIOR ANALYST,chennai,2022-06-20,0,591245,Not Rated,False
+1766,Ravi,Joshi,Ravi Joshi,ravi.joshi@company.in,+91-7946058269,Male,58,Marketing,Finance Analyst,Delhi,2022-06-02,22,1336039,Average,False
+1792,Vikram,Reddy,Vikram Reddy,vikram.reddy@yahoo.com,+91-9141962771,Male,51,Sales,Sql Developer,bangalore,2018-12-31,25,1027322,Not Rated,False
+1785,Unknown,Unknown,Unknown,Not specified,+91-9895012923,Unknown,33,Operations,Senior Analyst,Mumbai,2019-09-16,5,1073662,High Performer,True
+1292,Swati,Sharma,Swati Sharma,swati.sharma@yahoo.com,+91-8444516870,Unknown,53,Human Resources,Manager,chennai,2023-05-06,10,1456887,Excellent,True
+1427,vikram,verma,vikram verma,vikram.verma@company.in,929-5747180,Female,33,Human Resources,Data Analyst,MUMBAI,2022-07-22,3,480806,Excellent,False
+1275,Sneha,Kumar,Sneha Kumar,Not specified,+91-9194596665,Female,25,IT,HR Executive,Bengaluru,2019-11-12,10,50,Average,False
+1381,Pooja,Verma,Pooja Verma,pooja.verma@outlook.com,06397503555,Male,40,IT,HR Executive,chennai,2018-10-06,18,1303833,Excellent,True
+1659,Aakash,Singh,Aakash Singh,aakash.singh@company.in,+91-9310893591,Unknown,32,Marketing,HR Executive,Chennai,2022-12-13,0,1158644,Average,True
+1408,Neha,Mehta,Neha Mehta,neha.mehta@company.in,+91-6383060868,Female,32,Sales,SQL Developer,bangalore,2018-03-29,6,454666,Average,False
+1099,Pooja,Joshi,Pooja Joshi,pooja.joshi@outlook.com,Unknown,Male,27,Human Resources,HR Executive,hyderabad,2022-06-30,10,964855,Not Rated,True
+1370,Ravi,Pillai,Ravi Pillai,ravi.pillai@outlook.com,+91-9347894979,Female,49,Marketing,Finance Analyst,Mumbai,2020-02-02,15,1243664,Average,True
+1062,Rahul,Kumar,Rahul Kumar,rahul.kumar@yahoo.com,+91-8779565402,Unknown,47,Operations,Data Analyst,chennai,2021-04-15,25,1384982,Excellent,False
+1744,Ananya,Singh,Ananya Singh,ananya.singh@gmail.com,+91-8809184791,Male,52,Finance,Manager,Not specified,2018-05-29,14,1456167,Average,False
+1129,Priya,Mehta,Priya Mehta,priya.mehta@company.in,+91-7282248157,Female,24,Sales,Manager,bangalore,2018-09-26,4,681604,Good,True
+1715,Priya,Mishra,Priya Mishra,priya.mishra@yahoo.com,+91-7856965264,Female,45,IT,Senior Analyst,Pune,2022-06-25,28,570601,Average,True
+1483,Divya,Rao,Divya Rao,divya.rao@gmail.com,+91-9958670544,Female,42,Finance,Data Engineer,Delhi,2022-11-14,28,416209,Excellent,False
+1233,Divya,Verma,Divya Verma,divya.verma@hotmail.com,+91-8941889126,Unknown,55,IT,BI Developer,Pune,2018-05-22,25,1386538,Excellent,True
+1695,Kiran,Kumar,Kiran Kumar,kiran.kumar@yahoo.com,+91-7542083341,Female,22,IT,Finance Analyst,chennai,2018-01-12,29,645310,Not Rated,True
+1509,Vikram,Rao,Vikram Rao,vikram.rao@gmail.com,+91-9573639898,Female,37,Finance,Finance Analyst,Chennai,2000-01-01,26,1787577,Good,True
+1725,pooja,singh,pooja singh,pooja.singh@gmail.com,+91-6858440538,Unknown,44,Marketing,HR Executive,Bombay,2018-03-11,18,1388207,Good,True
+1746,Neha,Kumar,Neha Kumar,neha.kumar@gmail.com,+91-9802820039,Male,28,Finance,SENIOR ANALYST,Not specified,2021-07-21,10,465381,Good,True
+1382,Aakash,Patel,Aakash Patel,aakash.patel@outlook.com,+91-7153110240,Female,41,IT,BI Developer,Not specified,2021-02-11,0,1631811,Good,False
+1218,Divya,Patel,Divya Patel,divya.patel@hotmail.com,+91-7817074316,Male,24,Human Resources,HR Executive,Hyderabad,2021-10-28,21,875565,Average,True
+1177,Neha,Mehta,Neha Mehta,Not specified,XXXXXXXXXX,Unknown,40,Marketing,HR Executive,Chennai,2019-08-05,29,935069,Good,True
+1795,AAKASH,GUPTA,AAKASH GUPTA,Not specified,+91-6399206328,Unknown,55,Operations,BI Developer,hyderabad,2019-08-06,11,495933,Excellent,False
+1625,Vikram,Pillai,Vikram Pillai,vikram.pillai@hotmail.com,Unknown,Female,43,Sales,Data Engineer,Pune,2000-01-01,3,653655,Good,False
+1512,Meera,Singh,Meera Singh,meera.singh@yahoo.com,+91-8905287810,Male,30,Human Resources,BI Developer,hyderabad,2000-01-01,0,1517703,High Performer,True
+1189,Ananya,Iyer,Ananya Iyer,ananya.iyer@company.in,+91-8947363470,Female,53,Finance,SENIOR ANALYST,Not specified,2023-05-27,12,1681462,Average,False
+1298,Unknown,Unknown,Unknown,employee410@yahoo.com,+91-9997186975,Male,34,Marketing,SQL Developer,MUMBAI,2000-01-01,26,1569068,Good,False
+1184,Suresh,Patel,Suresh Patel,suresh.patel@yahoo.com,+91-8703937817,Male,47,IT,Manager,bangalore,2000-01-01,19,1481992,Average,False
+1537,Priya,Iyer,Priya Iyer,priya.iyer@outlook.com,+91-6360648843,Male,40,Finance,SQL Developer,Bangalore,2022-01-13,19,1027322,Excellent,False
+1462,Sneha,Joshi,Sneha Joshi,sneha.joshi@hotmail.com,+91-7878427679,Female,30,Finance,SENIOR ANALYST,chennai,2021-08-10,25,470336,Good,True
+1355,Vikram,Patel,Vikram Patel,vikram.patel@gmail.com,676-3143956,Male,23,Operations,Manager,Bangalore,2018-11-03,22,1027322,Poor,False
+1208,Kiran,Sharma,Kiran Sharma,Not specified,+91-8246663276,Female,32,Finance,SENIOR ANALYST,Not specified,2018-09-23,22,1509576,Excellent,False
+1114,Meera,Sharma,Meera Sharma,Not specified,+91-8441842200,Male,24,Finance,HR Executive,Bombay,2022-09-29,14,742097,Excellent,False
+1613,Sneha,Nair,Sneha Nair,sneha.nair@gmail.com,Unknown,Male,38,Operations,Senior Analyst,Mumbai,2023-02-26,15,1173645,High Performer,False
+1669,Arjun,Joshi,Arjun Joshi,arjun.joshi@company.in,+91-8205098571,Male,25,Human Resources,Senior Analyst,Hyderabad,2019-08-13,11,363514,Excellent,False
+1368,Arjun,Sharma,Arjun Sharma,Not specified,837-5251016,Female,25,Human Resources,Senior Analyst,Chennai,2023-04-29,30,1615258,Average,True
+1401,Priya,Sharma,Priya Sharma,priya.sharma@gmail.com,+91-6351197575,Female,23,Human Resources,Senior Analyst,Bombay,2020-12-12,16,1646177,Excellent,False
+1640,Arjun,Patel,Arjun Patel,arjun.patel@yahoo.com,+91-6069873508,Unknown,40,Sales,Not specified,Bombay,2022-07-08,3,1312808,Excellent,True
+1252,Sneha,Rao,Sneha Rao,Not specified,917988049941,Female,50,Human Resources,Data Analyst,MUMBAI,2021-12-20,1,1736529,Poor,True
+1365,ANANYA,REDDY,ANANYA REDDY,ananya.reddy@company.in,XXXXXXXXXX,Unknown,57,Marketing,SQL Developer,Bangalore,2022-02-18,29,1251150,Not Rated,False
+1331,Arjun,Nair,Arjun Nair,arjun.nair@yahoo.com,+91-7138485826,Unknown,31,IT,data analyst,MUMBAI,2019-01-25,2,-5000,Average,True
+1244,Rahul,Mishra,Rahul Mishra,rahul.mishra@outlook.com,+91-9943260674,Female,22,IT,HR Executive,bangalore,2018-09-16,28,1171621,Not Rated,True
+1750,Unknown,Unknown,Unknown,employee426@gmail.com,+91-6803982387,Female,28,Human Resources,Finance Analyst,hyderabad,2021-05-27,6,727867,Poor,False
+1223,Arjun,Nair,Arjun Nair,invalid-email,+91-6335954600,Male,39,Human Resources,Senior Analyst,Bengaluru,2022-12-05,15,601295,Not Rated,True
+1553,Arjun,Joshi,Arjun Joshi,Not specified,+91-8594387328,Female,30,Human Resources,Not specified,chennai,2021-07-07,16,969655,Good,False
+1442,Pooja,Rao,Pooja Rao,pooja.rao@hotmail.com,+91-8892268633,Unknown,28,Marketing,Sql Developer,Bombay,2021-02-07,10,1024294,High Performer,False
+1536,Meera,Reddy,Meera Reddy,meera.reddy@yahoo.com,916076945301,Female,29,IT,SQL Developer,Bombay,2018-05-01,27,574236,Average,True
+1584,Divya,Kumar,Divya Kumar,Not specified,+91-8049214240,Male,28,Operations,Data Analyst,Mumbai,2022-02-21,3,1379991,Poor,True
+1369,Ananya,Mishra,Ananya Mishra,ananya.mishra@yahoo.com,+91-7739855136,Male,34,Sales,Data Analyst,Hyderabad,2022-12-19,1,969234,Not Rated,True
+1514,Rahul,Sharma,Rahul Sharma,rahul.sharma@outlook.com,+91-9196515792,Unknown,55,Finance,Finance Analyst,MUMBAI,2020-11-30,22,556947,High Performer,True
+1044,Swati,Mishra,Swati Mishra,swati.mishra@company.in,+91-8090457198,Female,44,Marketing,SQL Developer,Mumbai,2020-04-30,3,819923,Excellent,True
+1098,Vikram,Joshi,Vikram Joshi,vikram.joshi@gmail.com,+91-9492377404,Male,40,Operations,Data Analyst,MUMBAI,2020-09-29,14,406126,Average,True
+1265,Rahul,Kumar,Rahul Kumar,rahul.kumar@company.in,+91-7549318330,Female,57,Finance,SQL Developer,Chennai,2000-01-01,21,1105620,Excellent,False
+1654,Suresh,Nair,Suresh Nair,suresh.nair@outlook.com,+91-8964787371,Male,35,Finance,Data Engineer,Not specified,2019-12-08,27,1176892,Average,False
+1585,Kiran,Mehta,Kiran Mehta,kiran.mehta@hotmail.com,+91-9455905653,Male,52,Operations,Manager,Mumbai,2020-12-26,14,634914,Good,False
+1752,Aakash,Singh,Aakash Singh,aakash.singh@outlook.com,+91-6537255294,Unknown,22,Sales,Sql Developer,Chennai,2000-01-01,3,1511497,Good,True
+1767,Unknown,Unknown,Unknown,employee440@yahoo.com,916480660531,Male,40,Finance,Sql Developer,Hyderabad,2020-07-04,21,698110,Average,True
+1588,Sneha,Mehta,Sneha Mehta,sneha.mehta@hotmail.com,+91-8785815533,Female,29,Human Resources,Not specified,MUMBAI,2000-01-01,0,1344938,Poor,True
+1144,Swati,Gupta,Swati Gupta,swati.gupta@outlook.com,+91-7038438114,Male,53,Sales,Manager,chennai,2018-12-29,9,1278982,High Performer,True
+1504,Swati,Nair,Swati Nair,swati.nair@hotmail.com,+91-8688903570,Male,27,IT,Sql Developer,MUMBAI,2023-01-17,6,947056,Average,True
+1133,Aakash,Kumar,Aakash Kumar,aakash.kumar@company.in,+91-8313194377,Female,26,Finance,SENIOR ANALYST,Bangalore,2000-01-01,6,488846,Good,True
+1441,Rahul,Verma,Rahul Verma,Not specified,+91-7292432406,Unknown,28,Finance,Senior Analyst,Chennai,2019-10-20,17,1359993,Not Rated,True
+1714,Swati,Gupta,Swati Gupta,swati.gupta@company.in,+91-6636366607,Female,36,IT,Data Analyst,MUMBAI,2022-03-10,14,804844,Average,False
+1109,Ananya,Rao,Ananya Rao,ananya.rao@hotmail.com,+91-6093702563,Male,40,IT,SQL Developer,MUMBAI,2021-02-25,8,1040074,Good,False
+1656,Ananya,Reddy,Ananya Reddy,ananya.reddy@company.in,XXXXXXXXXX,Male,25,IT,Data Engineer,Bangalore,2020-09-17,8,1027322,Not Rated,False
+1094,Unknown,Unknown,Unknown,employee449@gmail.com,+91-9692797617,Unknown,33,Sales,Manager,Delhi,2020-02-16,30,1553087,Poor,True
+1800,Aakash,Patel,Aakash Patel,aakash.patel@yahoo.com,+91-7042086420,Unknown,40,Operations,Senior Analyst,MUMBAI,2022-11-02,16,1672082,Average,False
+1652,Divya,Verma,Divya Verma,divya.verma@company.in,+91-8445685199,Male,42,Operations,Data Analyst,MUMBAI,2019-10-29,17,899257,High Performer,False
+1540,Ravi,Gupta,Ravi Gupta,ravi.gupta@outlook.com,+91-7682482133,Male,29,Human Resources,SENIOR ANALYST,Bangalore,2021-06-20,10,525437,Good,False
+1015,Ananya,Verma,Ananya Verma,ananya.verma@gmail.com,Unknown,Unknown,24,Finance,Senior Analyst,Pune,2000-01-01,30,854639,Not Rated,True
+1173,Divya,Gupta,Divya Gupta,divya.guptagmail.com,Unknown,Male,40,Finance,Data Analyst,Pune,2020-02-23,9,1145685,Average,True
+1741,Divya,Rao,Divya Rao,divya.rao@company.in,+91-8380719795,Female,32,Sales,SENIOR ANALYST,Delhi,2022-03-02,5,1140080,Average,False
+1343,Ananya,Sharma,Ananya Sharma,ananya.sharma@gmail.com,+91-6158987731,Male,50,Human Resources,Data Analyst,MUMBAI,2020-03-14,5,0,Good,True
+1778,vikram,rao,vikram rao,vikram.rao@hotmail.com,+91-8087787720,Female,39,Sales,BI Developer,Mumbai,2021-01-30,1,905241,Poor,True
+1073,Swati,Mehta,Swati Mehta,swati.mehta@hotmail.com,+91-9112194214,Female,27,Human Resources,SQL Developer,Mumbai,2000-01-01,15,50,Average,False
+1238,Pooja,Joshi,Pooja Joshi,pooja.joshi@hotmail.com,+91-8914856499,Female,43,Human Resources,HR Executive,Hyderabad,2023-05-21,1,886616,Average,True
+1170,Sneha,Reddy,Sneha Reddy,sneha.reddy@gmail.com,+91-9726460499,Unknown,47,Sales,Finance Analyst,hyderabad,2000-01-01,1,1607032,Average,False
+1644,Sneha,Joshi,Sneha Joshi,sneha.joshi@outlook.com,+91-9067853612,Male,51,IT,Senior Analyst,bangalore,2018-12-26,14,549164,Not Rated,True
+1673,Rahul,Singh,Rahul Singh,rahul.singh@outlook.com,Unknown,Female,46,IT,Data Engineer,Chennai,2020-07-25,19,502755,Excellent,True
+1452,Pooja,Patel,Pooja Patel,pooja.patel@gmail.com,+91-7356566068,Unknown,52,Sales,SENIOR ANALYST,Mumbai,2000-01-01,20,1011113,Average,False
+1143,Meera,Singh,Meera Singh,meera.singh@hotmail.com,+91-7150402112,Male,32,Sales,Data Engineer,Not specified,2022-06-01,22,1066732,Average,False
+1045,Sneha,Singh,Sneha Singh,sneha.singh@gmail.com,+91-7791591720,Female,25,Marketing,SENIOR ANALYST,Not specified,2023-03-12,11,717454,High Performer,True
+1415,Neha,Sharma,Neha Sharma,neha.sharma@yahoo.com,+91-6502256641,Unknown,32,IT,data analyst,Chennai,2023-05-14,26,1141769,Average,False
+1126,Vikram,Pillai,Vikram Pillai,vikram.pillai@company.in,+91-8775321174,Unknown,52,Finance,Senior Analyst,Bombay,2019-10-30,24,395008,Excellent,True
+1633,Rahul,Sharma,Rahul Sharma,rahul.sharma@outlook.com,+91-8995801715,Unknown,50,Human Resources,SENIOR ANALYST,Bengaluru,2018-12-20,17,1027322,Poor,True
+1690,Meera,Rao,Meera Rao,meera.rao@yahoo.com,+91-6692921852,Female,46,Finance,Data Engineer,Bangalore,2021-03-26,14,1293513,Not Rated,True
+1169,Arjun,Kumar,Arjun Kumar,arjun.kumar@company.in,+91-6825498296,Male,23,Human Resources,SQL Developer,MUMBAI,2022-02-26,2,612351,Good,True
+1688,Swati,Gupta,Swati Gupta,swati.gupta@gmail.com,+91-7881671087,Unknown,30,Marketing,Senior Analyst,Mumbai,2022-12-11,29,1381093,Not Rated,False
+1375,Ananya,Iyer,Ananya Iyer,ananya.iyer@company.in,+91-6943614372,Unknown,53,Human Resources,Finance Analyst,chennai,2023-11-05,3,1585697,Good,True
+1798,Sneha,Nair,Sneha Nair,sneha.nair@company.in,+91-8941941302,Female,48,IT,SENIOR ANALYST,bangalore,2022-02-09,21,1124085,Average,True
+1532,Meera,Pillai,Meera Pillai,meera.pillai@gmail.com,+91-8586000355,Female,26,Sales,Data Engineer,Bangalore,2022-06-26,24,927539,Average,False
+1239,Unknown,Unknown,Unknown,employee475@gmail.com,+91-9071757007,Female,42,Human Resources,SQL Developer,hyderabad,2021-08-09,7,1363916,Poor,False
+1248,Sneha,Singh,Sneha Singh,sneha.singh@company.in,+91-6563321747,Unknown,40,Finance,Sql Developer,Bombay,2021-08-04,4,1416397,Not Rated,True
+1397,Priya,Gupta,Priya Gupta,priya.gupta@gmail.com,+91-9105239895,Female,55,Finance,Not specified,Bengaluru,2019-04-29,19,1480537,Not Rated,False
+1276,Ravi,Mehta,Ravi Mehta,Not specified,+91-7790404672,Unknown,58,Finance,data analyst,MUMBAI,2019-04-30,11,334890,Good,True
+1471,Suresh,Kumar,Suresh Kumar,suresh.kumar@yahoo.com,+91-8890973792,Unknown,36,Marketing,Senior Analyst,Bangalore,2019-10-28,22,1713074,Not Rated,True
+1389,Aakash,Iyer,Aakash Iyer,aakash.iyer@hotmail.com,+91-7547285885,Female,43,IT,Finance Analyst,Bombay,2021-12-09,10,84596,Good,False
+1472,Sneha,Pillai,Sneha Pillai,sneha.pillai@hotmail.com,+91-9434921803,Unknown,28,Marketing,SENIOR ANALYST,Not specified,2022-06-05,28,1742932,Good,True
+1564,Suresh,Gupta,Suresh Gupta,suresh.gupta@gmail.com,+91-6695895299,Female,37,Sales,BI Developer,Delhi,2019-10-18,15,1551810,Poor,True
+1334,Kiran,Patel,Kiran Patel,kiran.patel@company.in,+91-7213144505,Female,46,Finance,Not specified,bangalore,2019-07-01,14,1674873,Poor,False
+1758,Vikram,Rao,Vikram Rao,vikram.rao@outlook.com,+91-6370191370,Male,57,Human Resources,Data Engineer,Mumbai,2000-01-01,11,1513148,Poor,False
+1376,Ravi,Mehta,Ravi Mehta,ravi.mehta@hotmail.com,+91-6554465497,Unknown,25,IT,Data Analyst,Bengaluru,2000-01-01,27,407699,Poor,True
+1091,Kiran,Patel,Kiran Patel,kiran.patel@hotmail.com,+91-6671363930,Female,40,IT,HR Executive,Pune,2000-01-01,24,657589,Good,True
+1725,Divya,Nair,Divya Nair,divya.nair@yahoo.com,+91-6433378202,Female,54,Operations,Manager,Delhi,2019-03-25,18,1599680,High Performer,True
+1079,kiran,kumar,kiran kumar,kiran.kumar@yahoo.com,+91-8120533071,Female,53,IT,Sql Developer,Hyderabad,2022-07-14,3,1097316,Average,False
+1070,Kiran,Singh,Kiran Singh,kiran.singh@outlook.com,+91-6899507630,Unknown,26,IT,SQL Developer,Hyderabad,2019-08-17,22,1727587,Good,True
+1236,Ananya,Patel,Ananya Patel,ananya.patel@outlook.com,+91-6077870311,Unknown,42,IT,Not specified,Not specified,2023-04-14,10,1500766,Good,False
+1604,Aakash,Singh,Aakash Singh,aakash.singh@yahoo.com,+91-7120161857,Female,39,IT,Finance Analyst,Hyderabad,2021-03-15,2,530467,High Performer,True
+1733,Priya,Reddy,Priya Reddy,priya.reddy@yahoo.com,+91-6681205304,Female,40,Finance,Finance Analyst,Not specified,2019-06-19,17,1224924,High Performer,True
+1326,ananya,pillai,ananya pillai,ananya.pillai@company.in,+91-9691359747,Female,46,Human Resources,Manager,Hyderabad,2000-01-01,18,617574,High Performer,False
+1186,Suresh,Patel,Suresh Patel,Not specified,+91-6137310137,Male,37,IT,data analyst,Not specified,2021-05-06,19,727591,Not Rated,True
+1492,Rahul,Iyer,Rahul Iyer,rahul.iyer@yahoo.com,+91-7450559731,Unknown,40,Finance,Data Engineer,Bengaluru,2000-01-01,5,1582362,Good,True
+1222,Swati,Mishra,Swati Mishra,swati.mishra@gmail.com,+91-8652412568,Female,50,Operations,Data Engineer,Bombay,2000-01-01,12,430613,Good,True
+1055,Rahul,Joshi,Rahul Joshi,rahul.joshi@yahoo.com,+91-8413691946,Female,53,IT,Sql Developer,Hyderabad,2018-01-06,3,1387757,Average,True
+1668,Aakash,Mehta,Aakash Mehta,aakash.mehta@gmail.com,+91-7107337642,Male,29,Marketing,Not specified,Not specified,2021-03-15,18,981678,Excellent,False
+1793,Suresh,Kumar,Suresh Kumar,suresh.kumar@outlook.com,+91-9371058879,Unknown,23,Operations,HR Executive,Bombay,2020-06-20,13,1303216,Excellent,False
+1763,Priya,Kumar,Priya Kumar,Not specified,+91-6200473425,Female,48,Finance,HR Executive,Hyderabad,2018-11-28,10,957986,Good,True
+1435,Neha,Pillai,Neha Pillai,neha.pillai@yahoo.com,+91-8392392791,Female,40,Marketing,BI Developer,Bangalore,2019-11-10,7,1263984,Excellent,True
+1247,Priya,Singh,Priya Singh,Not specified,+91-6649306170,Female,27,IT,Data Engineer,Delhi,2000-01-01,21,1017911,Excellent,True
+1175,Rahul,Reddy,Rahul Reddy,rahul.reddy@yahoo.com,+91-9752494341,Male,41,Sales,Sql Developer,Mumbai,2000-01-01,14,1717399,Poor,False
+1332,meera,rao,meera rao,meera.rao@gmail.com,+91-8875420006,Male,57,IT,Manager,Not specified,2022-12-01,19,1727627,Average,False
+1260,Unknown,Unknown,Unknown,employee505@outlook.com,919979854542,Unknown,51,Marketing,BI Developer,Bombay,2000-01-01,17,1753983,Average,True
+1036,AAKASH,PILLAI,AAKASH PILLAI,aakash.pillai@company.in,+91-8618451922,Female,45,Finance,BI Developer,Not specified,2021-12-20,14,1315399,Excellent,True
+1190,Aakash,Kumar,Aakash Kumar,aakash.kumar@outlook.com,+91-6437519881,Male,36,Finance,Finance Analyst,Bengaluru,2018-10-11,30,816988,High Performer,True
+1602,Kiran,Mehta,Kiran Mehta,kiran.mehta@company.in,+91-6180257367,Female,43,Human Resources,SQL Developer,chennai,2018-09-25,19,925998,Average,True
+1606,Kiran,Pillai,Kiran Pillai,kiran.pillai@hotmail.com,+91-6717458387,Female,52,Marketing,Not specified,Bangalore,2018-02-27,26,924142,High Performer,True
+1273,arjun,verma,arjun verma,arjun.verma@yahoo.com,+91-9740355928,Female,45,IT,SQL Developer,Bangalore,2018-10-03,26,1778284,High Performer,True
+1356,priya,gupta,priya gupta,priya.guptagmail.com,+91-7553225274,Unknown,29,Operations,Data Analyst,Bombay,2020-03-24,15,1778467,High Performer,False
+1648,Meera,Gupta,Meera Gupta,meera.guptagmail.com,+91-7254658686,Male,36,Human Resources,Senior Analyst,Chennai,2021-01-27,1,1306220,Good,False
+1124,RAVI,SHARMA,RAVI SHARMA,ravi.sharma@outlook.com,+91-9272613422,Female,40,Finance,Data Analyst,bangalore,2018-12-21,3,873482,Average,False
+1702,SNEHA,KUMAR,SNEHA KUMAR,sneha.kumar@yahoo.com,+91-9146286414,Female,40,IT,SENIOR ANALYST,Not specified,2022-12-15,28,1502668,High Performer,True
+1105,Ravi,Iyer,Ravi Iyer,ravi.iyer@hotmail.com,+91-6662695110,Female,45,Human Resources,Senior Analyst,Bangalore,2000-01-01,25,1096276,Good,True
+1249,swati,patel,swati patel,swati.patel@company.in,+91-7437128353,Male,24,Operations,SQL Developer,bangalore,2000-01-01,14,1127394,Excellent,False
+1483,Unknown,Unknown,Unknown,employee517@hotmail.com,+91-6528209967,Male,53,Operations,Senior Analyst,Not specified,2000-01-01,4,607182,High Performer,True
+1672,meera,reddy,meera reddy,meera.reddy@hotmail.com,+91-7885956471,Unknown,48,IT,Finance Analyst,MUMBAI,2019-12-17,9,903204,Average,True
+1407,Swati,Mishra,Swati Mishra,swati.mishra@company.in,+91-9303771741,Unknown,34,Marketing,SQL Developer,Bengaluru,2021-11-20,18,465736,Good,False
+1385,Swati,Joshi,Swati Joshi,swati.joshi@gmail.com,+91-7053624456,Male,47,IT,SQL Developer,Delhi,2021-09-28,6,1227729,Excellent,True
+1320,Rahul,Verma,Rahul Verma,rahul.verma@yahoo.com,+91-8034368522,Male,34,Sales,Not specified,Hyderabad,2019-01-14,10,1304702,Not Rated,False
+1027,rahul,patel,rahul patel,Not specified,+91-8169056122,Male,28,Sales,Senior Analyst,Not specified,2021-07-29,25,1429479,Not Rated,False
+1786,SNEHA,NAIR,SNEHA NAIR,sneha.nair@yahoo.com,+91-7142528438,Male,24,Human Resources,Data Engineer,Bengaluru,2023-03-08,9,1478637,Excellent,True
+1319,Arjun,Kumar,Arjun Kumar,arjun.kumar@gmail.com,+91-9242035497,Unknown,29,Human Resources,Manager,Bombay,2022-06-24,29,587882,Good,False
+1168,Swati,Kumar,Swati Kumar,swati.kumar@gmail.com,+91-8703425939,Female,50,Sales,Not specified,chennai,2019-02-18,29,106917,High Performer,True
+1304,Suresh,Singh,Suresh Singh,suresh.singh@company.in,+91-6651165188,Male,54,Human Resources,Manager,Hyderabad,2019-07-24,2,406462,Good,True
+1172,Pooja,Nair,Pooja Nair,pooja.nair@company.in,+91-8274830614,Unknown,53,IT,SENIOR ANALYST,Bombay,2019-04-29,19,1413674,Not Rated,True
+1378,Meera,Iyer,Meera Iyer,meera.iyer@hotmail.com,+91-6980034265,Male,40,Human Resources,BI Developer,Mumbai,2021-08-14,12,788293,Average,False
+1263,meera,mishra,meera mishra,meera.mishra@yahoo.com,Unknown,Male,57,Human Resources,Not specified,Delhi,2022-07-27,27,50,Excellent,False
+1690,Ravi,Reddy,Ravi Reddy,ravi.reddy@company.in,+91-7553809069,Female,52,Finance,Finance Analyst,Delhi,2000-01-01,11,1290702,High Performer,False
+1224,Rahul,Reddy,Rahul Reddy,rahul.reddy@company.in,+91-7900861022,Male,33,IT,HR Executive,hyderabad,2018-05-17,30,48018,Not Rated,False
+1118,Meera,Nair,Meera Nair,meera.nair@hotmail.com,+91-6042729398,Male,33,Marketing,HR Executive,Bengaluru,2022-09-07,14,1027322,Good,True
+1685,Neha,Joshi,Neha Joshi,neha.joshi@gmail.com,+91-8221995720,Unknown,30,Marketing,Senior Analyst,Bangalore,2023-05-08,26,631226,Excellent,False
+1130,Neha,Sharma,Neha Sharma,neha.sharma@yahoo.com,+91-6364119662,Unknown,42,Operations,Sql Developer,Not specified,2022-11-21,3,1297614,Average,True
+1693,Ananya,Mehta,Ananya Mehta,ananya.mehta@outlook.com,+91-7725077330,Male,46,IT,Sql Developer,MUMBAI,2018-02-16,27,718289,Poor,False
+1607,Arjun,Singh,Arjun Singh,arjun.singh@company.in,+91-6705769131,Male,37,Human Resources,Sql Developer,Bengaluru,2021-08-09,14,902396,Average,False
+1706,Aakash,Mehta,Aakash Mehta,aakash.mehta@company.in,+91-7689065733,Female,43,Marketing,data analyst,Pune,2022-05-15,18,1654546,Good,True
+1781,Kiran,Pillai,Kiran Pillai,kiran.pillai@outlook.com,+91-8835435059,Male,50,IT,Not specified,Not specified,2021-09-21,10,-5000,Excellent,False
+1666,Suresh,Iyer,Suresh Iyer,suresh.iyer@hotmail.com,+91-6648334319,Female,30,Human Resources,SENIOR ANALYST,Pune,2018-07-09,12,787001,Not Rated,False
+1032,Sneha,Singh,Sneha Singh,sneha.singh@outlook.com,+91-6248291317,Female,54,IT,Data Engineer,Pune,2000-01-01,17,378220,Good,True
+1042,Ananya,Singh,Ananya Singh,ananya.singh@outlook.com,+91-9063898748,Male,57,Sales,Not specified,Mumbai,2019-07-22,5,667137,Good,True
+1502,Arjun,Nair,Arjun Nair,arjun.nair@outlook.com,+91-9761589621,Male,57,IT,BI Developer,Bangalore,2018-04-27,6,668655,Excellent,False
+1230,Kiran,Joshi,Kiran Joshi,kiran.joshi@yahoo.com,+91-7270126729,Female,34,Operations,Finance Analyst,MUMBAI,2023-02-11,26,376210,Average,True
+1779,Suresh,Mehta,Suresh Mehta,suresh.mehta@yahoo.com,+91-9804408356,Male,40,Finance,Sql Developer,Mumbai,2021-03-26,26,1132557,Not Rated,False
+1054,Ananya,Mehta,Ananya Mehta,ananya.mehta@yahoo.com,+91-8377738671,Male,30,Finance,Data Analyst,chennai,2020-08-20,9,690723,High Performer,False
+1020,Swati,Patel,Swati Patel,swati.patel@gmail.com,+91-9099038128,Female,33,Human Resources,Manager,Bengaluru,2000-01-01,21,907056,Excellent,False
+1783,Pooja,Verma,Pooja Verma,pooja.verma@outlook.com,+91-9905116793,Female,42,Operations,SQL Developer,chennai,2018-10-07,0,319434,High Performer,True
+1016,Kiran,Gupta,Kiran Gupta,kiran.gupta@gmail.com,+91-9551953232,Male,44,Operations,HR Executive,MUMBAI,2018-10-25,2,1564127,High Performer,False
+1259,Vikram,Iyer,Vikram Iyer,vikram.iyer@outlook.com,+91-8266848252,Female,58,Marketing,BI Developer,bangalore,2018-04-10,28,73914,Good,True
+1432,Aakash,Iyer,Aakash Iyer,aakash.iyer@.com,+91-6630766676,Male,48,Finance,Manager,Pune,2022-02-07,13,1644929,Good,False
+1285,Neha,Joshi,Neha Joshi,neha.joshi@hotmail.com,+91-7916367361,Male,56,Finance,Senior Analyst,bangalore,2018-08-25,4,1335809,Excellent,True
+1450,Vikram,Joshi,Vikram Joshi,vikram.joshi@hotmail.com,+91-9812126034,Male,49,Finance,Data Analyst,MUMBAI,2018-11-19,14,581437,Excellent,True
+1346,Arjun,Sharma,Arjun Sharma,arjun.sharma@outlook.com,+91-9385901308,Male,55,Operations,Data Analyst,Not specified,2000-01-01,28,1281510,Poor,False
+1716,Ravi,Sharma,Ravi Sharma,ravi.sharma@company.in,+91-7898993224,Male,46,Finance,Data Engineer,Bangalore,2000-01-01,19,536237,Excellent,False
+1078,Kiran,Singh,Kiran Singh,Not specified,+91-9812534646,Female,25,IT,HR Executive,Mumbai,2022-03-22,19,1262413,Average,True
+1217,Priya,Nair,Priya Nair,priya.nair@outlook.com,+91-8786390122,Female,32,Human Resources,SQL Developer,Mumbai,2018-04-20,16,690487,Not Rated,False
+1336,Ravi,Pillai,Ravi Pillai,ravi.pillai@gmail.com,+91-6847378806,Female,38,IT,Finance Analyst,Not specified,2021-05-25,26,1027322,Not Rated,False
+1707,Ananya,Reddy,Ananya Reddy,ananya.reddy@gmail.com,+91-6361983810,Female,25,Marketing,Finance Analyst,Pune,2018-08-26,11,918710,Average,True
+1267,Ravi,Pillai,Ravi Pillai,ravi.pillai@company.in,Unknown,Unknown,40,Marketing,Sql Developer,MUMBAI,2020-02-23,13,705088,Not Rated,True
+1647,Swati,Iyer,Swati Iyer,swati.iyer@company.in,+91-9087568404,Female,56,IT,HR Executive,chennai,2018-08-03,18,1639505,Not Rated,True
+1187,Ravi,Patel,Ravi Patel,ravi.patel@company.in,+91-6541190125,Male,40,Finance,Not specified,Not specified,2023-02-14,23,1196958,Good,False
+1473,Ananya,Kumar,Ananya Kumar,ananya.kumar@hotmail.com,+91-8322676339,Male,28,Human Resources,Manager,Hyderabad,2018-03-27,16,481902,Good,True
+1139,Aakash,Singh,Aakash Singh,aakash.singh@gmail.com,+91-6398657020,Male,57,Finance,Finance Analyst,Delhi,2021-06-18,29,500037,Average,True
+1439,Priya,Joshi,Priya Joshi,priya.joshi@hotmail.com,+91-7341113919,Female,57,IT,SQL Developer,hyderabad,2020-07-03,11,594884,Excellent,False
+1086,Arjun,Sharma,Arjun Sharma,arjun.sharma@yahoo.com,+91-9251489188,Unknown,54,Marketing,Manager,bangalore,2022-01-20,14,820192,Average,True
+1569,Meera,Rao,Meera Rao,meera.rao@yahoo.com,+91-6100595644,Male,40,IT,Not specified,Hyderabad,2000-01-01,14,1027322,Average,False
+1404,Ravi,Rao,Ravi Rao,ravi.rao@yahoo.com,Unknown,Female,25,Finance,Not specified,MUMBAI,2023-03-25,11,1236872,Good,True
+1028,Priya,Singh,Priya Singh,priya.singh@gmail,+91-7111065867,Female,46,IT,HR Executive,hyderabad,2019-02-10,15,991274,Average,True
+1547,Rahul,Patel,Rahul Patel,Not specified,+91-9324982369,Female,42,IT,Sql Developer,bangalore,2018-03-17,2,1501410,Excellent,False
+1711,Suresh,Pillai,Suresh Pillai,suresh.pillai@gmail.com,+91-7815679727,Female,25,Finance,Manager,Hyderabad,2021-03-17,23,1027322,Excellent,True
+1479,Ananya,Mehta,Ananya Mehta,ananya.mehta@hotmail.com,+91-6474344355,Unknown,40,Human Resources,SENIOR ANALYST,Hyderabad,2020-06-02,27,1752841,Not Rated,False
+1170,Aakash,Singh,Aakash Singh,aakash.singh@yahoo.com,+91-9614573360,Female,50,Finance,Not specified,chennai,2019-11-22,24,1700448,High Performer,True
+1415,Aakash,Reddy,Aakash Reddy,aakash.reddy@gmail.com,+91-8692899551,Female,45,Finance,SQL Developer,Hyderabad,2021-01-03,16,70213,Good,True
+1345,Aakash,Nair,Aakash Nair,aakash.nair@outlook.com,+91-6531772868,Male,56,IT,Data Analyst,Hyderabad,2021-09-14,2,1738800,Excellent,False
+1756,Meera,Joshi,Meera Joshi,meera.joshi@yahoo.com,Unknown,Male,34,Finance,SQL Developer,Bengaluru,2020-07-21,20,1775466,Good,True
+1030,Unknown,Unknown,Unknown,employee576@hotmail.com,+91-7927310260,Female,34,Operations,Data Engineer,Pune,2022-10-05,30,1747643,Poor,False
+1223,Meera,Sharma,Meera Sharma,meera.sharma@outlook.com,+91-9164784001,Male,33,IT,HR Executive,Chennai,2018-11-03,21,68671,Average,True
+1737,Ananya,Gupta,Ananya Gupta,ananya.gupta@company.in,Unknown,Female,26,Operations,Senior Analyst,hyderabad,2018-12-27,25,763154,Average,False
+1280,divya,pillai,divya pillai,divya.pillai@gmail.com,+91-9459113221,Unknown,33,Marketing,Finance Analyst,Delhi,2018-07-04,19,580114,Excellent,True
+1651,Swati,Verma,Swati Verma,Not specified,+91-8497926443,Female,29,Human Resources,Manager,Bengaluru,2018-02-16,14,1254159,Good,False
+1500,Ravi,Reddy,Ravi Reddy,ravi.reddy@hotmail.com,+91-9841156309,Male,49,Human Resources,SQL Developer,Delhi,2021-07-04,24,1570326,High Performer,False
+1226,Pooja,Reddy,Pooja Reddy,pooja.reddy@outlook.com,+91-8858388988,Female,38,Finance,Data Analyst,Bangalore,2023-03-04,14,1772076,Good,True
+1560,Divya,Singh,Divya Singh,invalid-email,+91-8557863130,Male,38,Marketing,SQL Developer,Delhi,2022-10-27,28,1287398,Good,False
+1239,Rahul,Gupta,Rahul Gupta,Not specified,+91-7285061147,Male,40,Sales,BI Developer,Bombay,2021-03-26,23,1692706,Not Rated,True
+1260,Ananya,Joshi,Ananya Joshi,ananya.joshi@hotmail.com,+91-9370644214,Unknown,31,Operations,data analyst,MUMBAI,2018-10-03,11,818972,Excellent,False
+1539,Suresh,Sharma,Suresh Sharma,suresh.sharma@gmail.com,+91-8460010103,Male,40,Finance,SENIOR ANALYST,Pune,2021-05-06,25,1549513,Average,True
+1306,Ananya,Pillai,Ananya Pillai,ananya.pillai@hotmail.com,+91-9068114086,Female,25,Marketing,Finance Analyst,MUMBAI,2020-02-09,5,471694,Excellent,True
+1361,Pooja,Rao,Pooja Rao,pooja.rao@outlook.com,+91-9167591308,Unknown,41,Human Resources,Data Engineer,Mumbai,2018-02-05,14,1407659,Not Rated,False
+1007,Ravi,Joshi,Ravi Joshi,ravi.joshi@gmail.com,+91-7408091983,Male,58,Human Resources,BI Developer,hyderabad,2021-12-05,23,463793,Good,False
+1351,Arjun,Mishra,Arjun Mishra,arjun.mishra@company.in,+91-6827018550,Unknown,26,Human Resources,Not specified,hyderabad,2023-06-05,25,535318,Good,True
+1390,Ravi,Iyer,Ravi Iyer,ravi.iyer@gmail,+91-7551632248,Female,42,Human Resources,SQL Developer,chennai,2022-01-17,1,0,Good,False
+1764,neha,nair,neha nair,neha.nair@gmail.com,+91-6629441413,Male,33,Human Resources,HR Executive,Bangalore,2022-09-16,18,614263,Good,False
+1021,Vikram,Reddy,Vikram Reddy,vikram.reddy@hotmail.com,+91-9558112515,Female,54,Finance,Data Analyst,Chennai,2022-07-18,1,1391235,High Performer,True
+1399,RAHUL,NAIR,RAHUL NAIR,rahul.nair@gmail.com,+91-6396204771,Female,56,Sales,Data Analyst,hyderabad,2022-07-08,9,1726682,Excellent,True
+1709,Ravi,Nair,Ravi Nair,ravi.nair@gmail.com,Unknown,Female,27,Human Resources,Sql Developer,Mumbai,2022-01-05,19,1522949,Excellent,False
+1212,Unknown,Unknown,Unknown,employee596@outlook.com,XXXXXXXXXX,Male,35,Human Resources,Manager,Not specified,2000-01-01,14,1370334,Excellent,False
+1064,Rahul,Patel,Rahul Patel,rahul.patel@yahoo.com,+91-8228851793,Male,43,Human Resources,Not specified,Pune,2022-08-14,4,416676,Average,True
+1426,Neha,Reddy,Neha Reddy,neha.reddy@yahoo.com,+91-9745275018,Male,35,Operations,Manager,MUMBAI,2022-09-05,27,1376358,Good,True
+1478,Vikram,Mishra,Vikram Mishra,vikram.mishra@yahoo.com,+91-8142446952,Female,55,Marketing,SENIOR ANALYST,Chennai,2000-01-01,8,1482607,Excellent,False
+1177,Vikram,Reddy,Vikram Reddy,vikram.reddy@company.in,+91-7890129015,Unknown,57,Sales,Manager,Delhi,2018-08-31,8,50,Not Rated,False
+1738,Suresh,Rao,Suresh Rao,suresh.rao@yahoo.com,+91-8102562879,Female,22,IT,Manager,Delhi,2019-07-19,8,946278,High Performer,False
+1418,Unknown,Unknown,Unknown,employee602@hotmail.com,+91-7790667841,Unknown,44,Sales,Data Analyst,Bengaluru,2020-05-18,14,1130364,Average,True
+1663,Unknown,Unknown,Unknown,employee603@yahoo.com,+91-6619962132,Unknown,37,Human Resources,Senior Analyst,Hyderabad,2021-01-30,5,306323,Not Rated,True
+1066,Priya,Nair,Priya Nair,priya.nair@outlook.com,+91-8082047253,Male,42,Finance,Finance Analyst,Delhi,2021-01-10,23,1512806,Not Rated,False
+1220,Divya,Gupta,Divya Gupta,divya.gupta@yahoo.com,+91-6555705131,Female,29,Operations,data analyst,Pune,2020-03-04,14,50,Excellent,True
+1157,Neha,Iyer,Neha Iyer,neha.iyer@outlook.com,+91-8204114869,Female,56,Finance,BI Developer,Mumbai,2022-04-11,5,433714,Average,True
+1393,Ananya,Joshi,Ananya Joshi,ananya.joshi@outlook.com,+91-6507055905,Female,23,Finance,BI Developer,Not specified,2019-03-11,22,426365,Good,False
+1237,Arjun,Iyer,Arjun Iyer,arjun.iyer@.com,+91-7956067164,Female,45,Operations,SQL Developer,chennai,2019-06-16,5,444743,Not Rated,True
+1155,Pooja,Kumar,Pooja Kumar,pooja.kumar@outlook.com,+91-9206177239,Male,54,Sales,Manager,hyderabad,2022-12-24,27,1290005,Good,True
+1142,Neha,Singh,Neha Singh,neha.singh@hotmail.com,+91-8401001356,Female,24,IT,Sql Developer,Bombay,2018-02-22,14,1027322,Good,False
+1339,Unknown,Unknown,Unknown,employee611@yahoo.com,+91-6510096343,Female,34,IT,Sql Developer,Hyderabad,2020-09-13,30,584014,Average,True
+1554,Ravi,Pillai,Ravi Pillai,Not specified,+91-7755008946,Male,27,Finance,Not specified,MUMBAI,2020-05-15,29,1654510,High Performer,False
+1328,Unknown,Unknown,Unknown,employee613@company.in,07243782053,Female,32,Operations,Not specified,Bombay,2020-01-12,26,1085301,Average,True
+1677,Rahul,Mishra,Rahul Mishra,rahul.mishra@hotmail.com,917608292420,Female,56,Human Resources,data analyst,Hyderabad,2020-09-08,13,1102117,Average,True
+1548,Aakash,Patel,Aakash Patel,aakash.patel@company.in,+91-6610485820,Female,26,IT,Data Engineer,Bengaluru,2000-01-01,7,1091667,High Performer,False
+1718,Neha,Mishra,Neha Mishra,neha.mishra@outlook.com,+91-7811432415,Unknown,35,IT,data analyst,bangalore,2019-07-24,23,1731789,High Performer,False
+1153,Neha,Joshi,Neha Joshi,neha.joshi@hotmail.com,Unknown,Female,49,Human Resources,HR Executive,Hyderabad,2018-12-07,6,1430994,Good,True
+1080,pooja,gupta,pooja gupta,pooja.gupta@outlook.com,+91-7217547222,Female,35,Marketing,data analyst,hyderabad,2020-06-26,26,1029326,Excellent,False
+1451,Suresh,Mishra,Suresh Mishra,suresh.mishragmail.com,+91-9518115388,Unknown,49,Finance,SENIOR ANALYST,Chennai,2020-06-02,20,100419,Not Rated,False
+1282,Neha,Nair,Neha Nair,neha.nair@company.in,+91-6008958266,Female,26,Human Resources,SENIOR ANALYST,Chennai,2022-11-01,26,567066,High Performer,False
+1731,Ananya,Nair,Ananya Nair,ananya.nair@gmail.com,XXXXXXXXXX,Unknown,31,Marketing,SENIOR ANALYST,hyderabad,2020-04-24,5,767015,Average,True
+1497,Suresh,Pillai,Suresh Pillai,suresh.pillai@yahoo.com,+91-8429937790,Male,40,IT,BI Developer,chennai,2018-09-24,15,347679,Excellent,True
+1534,Priya,Joshi,Priya Joshi,priya.joshi@company.in,+91-7450939779,Male,24,Operations,HR Executive,chennai,2022-10-28,23,1270989,Excellent,False
+1081,Divya,Patel,Divya Patel,divya.patel@outlook.com,+91-8041086767,Female,25,Operations,Not specified,MUMBAI,2020-12-23,29,1441784,Good,False
+1254,Suresh,Rao,Suresh Rao,suresh.rao@hotmail.com,+91-9580643215,Female,38,IT,Data Analyst,bangalore,2019-12-03,12,1095400,Not Rated,True
+1266,Ananya,Rao,Ananya Rao,ananya.rao@outlook.com,+91-9272555625,Unknown,58,Marketing,Finance Analyst,chennai,2019-06-19,12,819070,Excellent,True
+1461,Kiran,Kumar,Kiran Kumar,kiran.kumar@outlook.com,09271385463,Female,38,Finance,Not specified,Delhi,2022-08-23,4,625313,Poor,True
+1667,Ananya,Mehta,Ananya Mehta,ananya.mehta@gmail.com,+91-7396793314,Unknown,50,Human Resources,SENIOR ANALYST,Not specified,2019-03-31,13,536652,Not Rated,True
+1163,Pooja,Pillai,Pooja Pillai,pooja.pillai@company.in,08678296395,Female,49,Finance,data analyst,Hyderabad,2018-03-08,14,1027322,Not Rated,True
+1457,Neha,Kumar,Neha Kumar,neha.kumar@gmail.com,+91-7455984805,Male,46,Human Resources,Data Engineer,Not specified,2018-01-05,14,1589587,Not Rated,True
+1700,Kiran,Nair,Kiran Nair,kiran.nair@outlook.com,+91-8879534353,Female,56,Operations,data analyst,chennai,2018-02-04,10,332811,Excellent,True
+1437,sneha,singh,sneha singh,sneha.singh@company.in,+91-9160721385,Unknown,40,Human Resources,Finance Analyst,Not specified,2023-02-03,21,441119,Poor,True
+1517,Suresh,Nair,Suresh Nair,suresh.nair@gmail.com,+91-6380232984,Unknown,26,Human Resources,Data Analyst,Bengaluru,2000-01-01,3,34400,Good,True
+1628,Rahul,Singh,Rahul Singh,rahul.singh@hotmail.com,+91-9037437944,Female,24,Finance,Data Engineer,MUMBAI,2000-01-01,20,1709335,High Performer,True
+1454,Kiran,Reddy,Kiran Reddy,kiran.reddy@hotmail.com,Unknown,Female,26,IT,Manager,Mumbai,2020-01-25,27,402081,Not Rated,False
+1325,Sneha,Mehta,Sneha Mehta,sneha.mehta@company.in,+91-9038254927,Unknown,54,Finance,Data Analyst,Mumbai,2023-01-03,29,392771,Good,False
+1381,Meera,Singh,Meera Singh,meera.singh@yahoo.com,+91-8770939734,Female,41,Sales,HR Executive,Bangalore,2021-06-29,8,791445,High Performer,False
+1573,Suresh,Verma,Suresh Verma,suresh.verma@outlook.com,Unknown,Female,40,IT,SENIOR ANALYST,Hyderabad,2000-01-01,8,418371,Average,True
+1374,Unknown,Unknown,Unknown,employee639@company.in,+91-9223624529,Female,50,Human Resources,Sql Developer,Pune,2021-04-23,8,906629,Good,False
+1648,Ravi,Rao,Ravi Rao,ravi.rao@outlook.com,+91-9852002754,Female,23,IT,Senior Analyst,Not specified,2020-02-01,12,1508190,High Performer,True
+1137,Ananya,Verma,Ananya Verma,Not specified,Unknown,Female,56,Human Resources,Finance Analyst,Hyderabad,2020-05-20,21,1553924,High Performer,True
+1468,Ravi,Rao,Ravi Rao,ravi.rao@yahoo.com,+91-6771992012,Female,47,Marketing,HR Executive,Bangalore,2023-04-21,23,972483,Not Rated,True
+1125,Arjun,Kumar,Arjun Kumar,arjun.kumar@hotmail.com,+91-7180955041,Female,56,Human Resources,Finance Analyst,hyderabad,2000-01-01,24,600438,Average,True
+1175,Pooja,Verma,Pooja Verma,invalid-email,+91-7053498326,Male,31,Sales,SENIOR ANALYST,Pune,2022-09-20,10,1393142,Average,False
+1571,Swati,Mishra,Swati Mishra,swati.mishra@hotmail.com,+91-9603122969,Female,45,Marketing,SENIOR ANALYST,MUMBAI,2018-10-08,5,930196,Good,True
+1097,Unknown,Unknown,Unknown,employee646@gmail.com,+91-7907951048,Male,22,Human Resources,BI Developer,Bangalore,2020-08-03,0,1467522,Excellent,True
+1476,Vikram,Joshi,Vikram Joshi,vikram.joshi@yahoo.com,XXXXXXXXXX,Female,57,Marketing,Manager,MUMBAI,2018-06-01,26,667280,Not Rated,True
+1531,Priya,Singh,Priya Singh,priya.singh@hotmail.com,+91-6099914907,Male,24,Finance,SENIOR ANALYST,MUMBAI,2018-04-01,14,1195904,High Performer,False
+1181,Sneha,Iyer,Sneha Iyer,sneha.iyer@hotmail.com,+91-6775275976,Unknown,40,Marketing,BI Developer,Bombay,2022-04-25,2,398323,Not Rated,False
+1225,divya,pillai,divya pillai,divya.pillai@hotmail.com,+91-9692161811,Male,56,Human Resources,Finance Analyst,Hyderabad,2022-06-21,11,1649131,Good,True
+1436,Divya,Pillai,Divya Pillai,divya.pillai@yahoo.com,+91-7640724675,Female,27,IT,Data Engineer,Pune,2018-03-21,9,1399878,High Performer,True
+1026,Rahul,Nair,Rahul Nair,rahul.nair@gmail.com,+91-6492394892,Female,44,Sales,Data Engineer,Bengaluru,2018-02-24,1,1173096,Not Rated,True
+1006,Meera,Gupta,Meera Gupta,meera.gupta@outlook.com,+91-8326924276,Female,54,Marketing,Sql Developer,Bombay,2021-02-08,14,928911,Excellent,True
+1559,Kiran,Kumar,Kiran Kumar,kiran.kumar@yahoo.com,+91-6618622412,Male,33,Finance,Data Analyst,Pune,2000-01-01,3,1428117,Average,True
+1250,Aakash,Kumar,Aakash Kumar,aakash.kumar@company.in,+91-9299843529,Female,38,IT,BI Developer,Bengaluru,2020-03-27,20,772581,High Performer,True
+1764,Swati,Iyer,Swati Iyer,swati.iyer@company.in,Unknown,Female,33,Operations,Sql Developer,Mumbai,2022-04-13,30,1783896,Average,True
+1507,Vikram,Iyer,Vikram Iyer,Not specified,+91-6779355497,Female,58,Sales,SENIOR ANALYST,MUMBAI,2020-09-28,27,1271034,Average,False
+1394,Arjun,Nair,Arjun Nair,arjun.nair@yahoo.com,Unknown,Unknown,57,IT,Data Engineer,bangalore,2020-05-17,12,1479408,Average,False
+1200,Kiran,Patel,Kiran Patel,kiran.patel@gmail.com,+91-6424103194,Male,57,Marketing,HR Executive,bangalore,2021-01-19,28,1173480,Excellent,True
+1590,Kiran,Kumar,Kiran Kumar,kiran.kumar@yahoo.com,+91-7773060475,Female,40,Finance,Data Engineer,Chennai,2020-11-24,25,581212,Not Rated,False
+1645,Priya,Gupta,Priya Gupta,priya.gupta@yahoo.com,+91-7107819345,Female,34,Finance,Data Analyst,MUMBAI,2022-07-22,28,834764,Average,False
+1425,kiran,singh,kiran singh,kiran.singh@hotmail.com,+91-9555122209,Male,53,IT,data analyst,Chennai,2020-06-07,5,1656240,Excellent,True
+1467,Arjun,Rao,Arjun Rao,arjun.rao@outlook.com,+91-6222814829,Unknown,44,Finance,BI Developer,hyderabad,2018-10-31,14,50,Good,True
+1214,Unknown,Unknown,Unknown,Not specified,+91-9230389809,Female,37,Human Resources,Data Analyst,Bombay,2022-11-14,2,493911,Excellent,True
+1626,Swati,Mehta,Swati Mehta,swati.mehta@gmail.com,+91-7015721607,Unknown,26,Human Resources,BI Developer,Not specified,2023-06-19,29,699468,High Performer,False
+1487,Divya,Verma,Divya Verma,divya.verma@company.in,+91-9231490354,Unknown,42,Finance,Finance Analyst,Chennai,2021-12-13,24,50,Average,False
+1088,Vikram,Pillai,Vikram Pillai,vikram.pillai@company.in,+91-6494270721,Male,43,Finance,BI Developer,MUMBAI,2020-07-08,28,1564419,Not Rated,False
+1048,Unknown,Unknown,Unknown,employee668@company.in,+91-7367244618,Unknown,41,Sales,HR Executive,Bengaluru,2019-02-05,24,1027322,Average,False
+1797,Sneha,Mishra,Sneha Mishra,sneha.mishra@gmail.com,+91-7748380110,Male,31,Operations,Data Analyst,Bangalore,2000-01-01,5,0,Excellent,False
+1151,Ananya,Kumar,Ananya Kumar,ananya.kumar@outlook.com,Unknown,Female,45,Sales,HR Executive,hyderabad,2018-07-28,8,998276,Good,False
+1204,Rahul,Reddy,Rahul Reddy,rahul.reddy@yahoo.com,+91-7003907590,Unknown,49,IT,Data Analyst,Pune,2000-01-01,12,332157,Not Rated,False
+1231,Kiran,Pillai,Kiran Pillai,kiran.pillai@outlook.com,+91-6079984471,Male,42,IT,Senior Analyst,Chennai,2021-12-30,1,698508,Average,True
+1318,Vikram,Mishra,Vikram Mishra,vikram.mishra@company.in,+91-8517592572,Female,36,Marketing,Data Engineer,Mumbai,2019-12-11,26,546029,Excellent,True
+1056,Ananya,Pillai,Ananya Pillai,ananya.pillai@hotmail.com,+91-7057919563,Female,49,Operations,data analyst,Bengaluru,2023-06-08,14,1304369,Not Rated,False
+1800,Swati,Iyer,Swati Iyer,invalid-email,+91-8798389847,Female,45,Operations,data analyst,Bangalore,2022-07-24,3,1758834,Excellent,False
+1344,Neha,Reddy,Neha Reddy,neha.reddy@hotmail.com,+91-7308302190,Unknown,43,Marketing,HR Executive,Mumbai,2020-01-10,5,728895,Excellent,True
+1744,arjun,iyer,arjun iyer,Not specified,+91-7915479210,Male,51,Human Resources,Data Analyst,Bombay,2020-10-04,3,801913,Good,True
+1649,Pooja,Joshi,Pooja Joshi,pooja.joshi@yahoo.com,Unknown,Female,41,Operations,data analyst,hyderabad,2019-02-13,24,893618,High Performer,False
+1528,Aakash,Iyer,Aakash Iyer,aakash.iyer@outlook.com,+91-9358766064,Female,28,IT,Not specified,chennai,2018-12-25,19,1419145,Poor,True
+1291,Aakash,Rao,Aakash Rao,aakash.rao@hotmail.com,+91-7820002935,Female,27,Finance,Sql Developer,Bengaluru,2021-12-12,29,946808,Average,True
+1087,Priya,Gupta,Priya Gupta,priya.gupta@hotmail.com,+91-8384360741,Female,30,Sales,Data Engineer,Pune,2018-02-20,8,1375454,Average,False
+1675,Suresh,Patel,Suresh Patel,suresh.patel@company.in,+91-6004299516,Male,34,Finance,SENIOR ANALYST,Bombay,2021-03-03,2,1277281,Not Rated,False
+1174,Meera,Rao,Meera Rao,meera.rao@yahoo.com,+91-9562124703,Male,26,Sales,Sql Developer,Mumbai,2019-01-08,5,91537,Average,False
+1485,Arjun,Mishra,Arjun Mishra,arjun.mishra@yahoo.com,+91-8804866399,Unknown,23,Finance,Data Analyst,MUMBAI,2020-12-24,0,971577,Good,True
+1745,Aakash,Joshi,Aakash Joshi,Not specified,+91-6002331874,Male,23,Sales,Finance Analyst,chennai,2020-07-04,4,1077424,Excellent,False
+1797,Aakash,Nair,Aakash Nair,aakash.nair@gmail.com,Unknown,Female,47,IT,SENIOR ANALYST,Bengaluru,2021-12-11,0,395872,Good,True
+1689,Unknown,Unknown,Unknown,employee687@yahoo.com,+91-8567822451,Female,35,IT,BI Developer,Bengaluru,2021-05-05,21,764045,Good,True
+1317,Kiran,Pillai,Kiran Pillai,kiran.pillai@outlook.com,+91-8920568308,Female,57,Operations,data analyst,Bengaluru,2020-10-13,4,334015,Good,True
+1477,Neha,Mishra,Neha Mishra,neha.mishra@company.in,+91-7509328461,Female,56,Marketing,Sql Developer,Bombay,2019-02-23,28,1524803,Excellent,True
+1330,Pooja,Joshi,Pooja Joshi,Not specified,+91-6913772036,Male,31,Finance,data analyst,Pune,2021-02-23,0,1175724,Not Rated,False
+1671,Unknown,Unknown,Unknown,employee691@company.in,+91-8191843886,Female,36,Marketing,Data Engineer,hyderabad,2019-11-15,30,711443,Poor,False
+1622,Meera,Verma,Meera Verma,meera.verma@company.in,+91-6693277728,Unknown,40,Marketing,Senior Analyst,Pune,2021-10-06,15,1096581,Excellent,False
+1505,Suresh,Kumar,Suresh Kumar,suresh.kumar@gmail.com,+91-8418416972,Unknown,54,Marketing,BI Developer,Mumbai,2021-05-28,27,815333,Average,False
+1645,Unknown,Unknown,Unknown,employee694@gmail.com,Unknown,Female,47,IT,HR Executive,Hyderabad,2000-01-01,25,1672812,Poor,False
+1022,Pooja,Mehta,Pooja Mehta,pooja.mehta@gmail.com,+91-6528182041,Female,22,Marketing,data analyst,Chennai,2023-03-04,17,1007923,Good,False
+1294,divya,patel,divya patel,divya.patel@company.in,+91-9114168187,Female,32,Finance,Not specified,hyderabad,2022-09-13,12,1324712,Good,False
+1312,Vikram,Mishra,Vikram Mishra,vikram.mishra@gmail.com,+91-7200264250,Female,30,Marketing,Manager,Not specified,2022-12-27,26,1645730,Average,True
+1001,Priya,Nair,Priya Nair,priya.nair@yahoo.com,+91-6905594622,Male,33,Operations,SQL Developer,Bombay,2020-06-13,3,1266428,Good,True
+1562,Priya,Reddy,Priya Reddy,priya.reddy@company.in,+91-9444806679,Unknown,58,IT,data analyst,Mumbai,2018-06-11,29,1038566,Not Rated,False
+1416,Pooja,Pillai,Pooja Pillai,pooja.pillai@gmail.com,+91-8929601471,Male,31,Operations,Sql Developer,Delhi,2021-04-13,10,1446190,Excellent,False
+1309,Aakash,Verma,Aakash Verma,aakash.verma@company.in,+91-8728033887,Unknown,52,Sales,BI Developer,Bombay,2020-12-10,12,1436943,Excellent,True
+1583,Kiran,Iyer,Kiran Iyer,kiran.iyer@gmail.com,+91-9232796112,Female,24,IT,Data Analyst,Bombay,2022-08-29,14,423170,Good,True
+1631,Arjun,Pillai,Arjun Pillai,arjun.pillai@outlook.com,+91-7172582522,Male,53,IT,Sql Developer,MUMBAI,2000-01-01,20,455882,Poor,True
+1179,Pooja,Mehta,Pooja Mehta,pooja.mehta@gmail.com,+91-7381425782,Unknown,38,Sales,HR Executive,hyderabad,2018-02-08,5,1701349,Average,False
+1694,Swati,Singh,Swati Singh,swati.singh@company.in,+91-7974823127,Male,24,IT,Senior Analyst,Chennai,2018-04-28,14,1027322,High Performer,True
+1079,Arjun,Singh,Arjun Singh,arjun.singh@company.in,+91-7410713142,Male,55,Operations,Manager,Bangalore,2020-04-05,9,1027322,Good,False
+1727,Ananya,Gupta,Ananya Gupta,ananya.gupta@hotmail.com,Unknown,Female,45,Operations,Sql Developer,Pune,2020-05-21,5,1622677,Average,True
+1431,Sneha,Pillai,Sneha Pillai,sneha.pillai@gmail.com,916008794014,Unknown,51,Operations,BI Developer,Not specified,2019-09-29,30,1783042,Average,True
+1197,Meera,Iyer,Meera Iyer,meera.iyer@company.in,+91-7774521705,Male,24,Sales,Finance Analyst,Pune,2021-07-07,6,758688,Not Rated,True
+1006,Aakash,Rao,Aakash Rao,aakash.rao@company.in,+91-8991401525,Male,42,Marketing,Data Analyst,Bangalore,2022-03-27,12,1082658,Average,True
+1525,Swati,Pillai,Swati Pillai,swati.pillai@gmail.com,+91-9274763284,Unknown,55,Operations,Senior Analyst,bangalore,2022-06-17,20,50,Good,True
+1303,Rahul,Mehta,Rahul Mehta,rahul.mehta@outlook.com,+91-6348531386,Male,39,Finance,SQL Developer,Hyderabad,2000-01-01,15,332991,Average,True
+1628,Rahul,Mishra,Rahul Mishra,rahul.mishra@hotmail.com,+91-8787851568,Male,38,Sales,Not specified,hyderabad,2000-01-01,14,1027322,Good,True
+1413,Unknown,Unknown,Unknown,employee714@hotmail.com,+91-8313481256,Male,58,IT,Not specified,Pune,2000-01-01,4,324853,Excellent,True
+1335,AAKASH,MEHTA,AAKASH MEHTA,aakash.mehta@company.in,Unknown,Female,46,Marketing,Data Engineer,Bengaluru,2018-09-12,14,1027322,Good,True
+1419,Pooja,Kumar,Pooja Kumar,pooja.kumar@company.in,+91-7912019677,Male,26,Human Resources,SQL Developer,hyderabad,2018-03-18,14,1423524,High Performer,False
+1024,Pooja,Rao,Pooja Rao,pooja.rao@gmail.com,+91-7516100805,Male,46,Marketing,Sql Developer,Mumbai,2022-03-14,7,335950,Average,False
+1317,Meera,Reddy,Meera Reddy,meera.reddy@company.in,+91-7616524533,Male,36,Marketing,Data Engineer,Delhi,2021-04-14,2,1763516,Excellent,False
+1520,Vikram,Patel,Vikram Patel,vikram.patel@hotmail.com,+91-7537451164,Male,44,Operations,Sql Developer,Not specified,2021-01-18,20,675949,High Performer,False
+1363,Pooja,Iyer,Pooja Iyer,pooja.iyer@outlook.com,+91-9604103719,Unknown,44,Human Resources,Data Engineer,Delhi,2022-08-08,17,42624,Poor,True
+1128,RAVI,VERMA,RAVI VERMA,ravi.verma@outlook.com,+91-8993721603,Unknown,52,Marketing,HR Executive,Not specified,2021-03-21,25,805348,Not Rated,False
+1702,Arjun,Mehta,Arjun Mehta,arjun.mehta@gmail.com,+91-6535856716,Unknown,22,Marketing,SQL Developer,Pune,2019-10-08,0,1404058,Average,True
+1748,Divya,Pillai,Divya Pillai,divya.pillai@yahoo.com,+91-6828889415,Male,30,Operations,HR Executive,Hyderabad,2021-09-29,14,1043316,Excellent,True
+1639,Neha,Joshi,Neha Joshi,neha.joshi@company.in,+91-6951424441,Female,36,Human Resources,BI Developer,Mumbai,2019-10-11,14,1132352,Good,True
+1339,Arjun,Mehta,Arjun Mehta,Not specified,+91-9257393394,Female,40,Operations,Not specified,hyderabad,2018-03-28,1,50,Not Rated,False
+1681,Sneha,Reddy,Sneha Reddy,sneha.reddy@gmail.com,+91-9957377217,Female,33,IT,SQL Developer,Not specified,2021-06-04,6,810043,Good,True
+1769,Sneha,Reddy,Sneha Reddy,sneha.reddy@outlook.com,+91-6822536398,Unknown,29,Human Resources,Manager,Chennai,2022-07-13,21,773656,High Performer,True
+1442,Neha,Iyer,Neha Iyer,neha.iyer@hotmail.com,07302141873,Male,48,IT,Senior Analyst,Bombay,2000-01-01,30,469065,Poor,True
+1373,Priya,Iyer,Priya Iyer,priya.iyer@yahoo.com,+91-7559069619,Female,29,Human Resources,Data Engineer,Bengaluru,2023-03-19,27,1662927,Good,False
+1202,Unknown,Unknown,Unknown,employee730@hotmail.com,Unknown,Unknown,52,Human Resources,Data Engineer,Delhi,2000-01-01,23,496084,Excellent,False
+1687,Ravi,Pillai,Ravi Pillai,ravi.pillaigmail.com,+91-9036404466,Male,32,Sales,data analyst,Delhi,2021-08-01,29,1090981,Not Rated,False
+1137,Aakash,Rao,Aakash Rao,aakash.rao@company.in,+91-6030646323,Male,48,Marketing,Not specified,MUMBAI,2021-08-20,3,417681,Excellent,False
+1552,Ananya,Rao,Ananya Rao,ananya.rao@outlook.com,+91-9526698463,Male,40,Operations,data analyst,Bengaluru,2000-01-01,0,1773973,Excellent,True
+1533,Vikram,Gupta,Vikram Gupta,vikram.gupta@hotmail.com,+91-6476511705,Female,40,Marketing,Sql Developer,Mumbai,2000-01-01,29,1348279,Excellent,True
+1002,Vikram,Rao,Vikram Rao,vikram.rao@hotmail.com,+91-8444275463,Female,32,Marketing,Senior Analyst,Pune,2021-04-11,7,1652468,Good,True
+1379,Ravi,Sharma,Ravi Sharma,ravi.sharma@gmail.com,+91-6732193544,Unknown,54,Sales,Senior Analyst,Chennai,2022-07-25,4,1486687,Average,True
+1726,Suresh,Iyer,Suresh Iyer,suresh.iyer@.com,+91-8833984422,Female,40,Sales,SQL Developer,Bombay,2020-02-22,14,499988,Excellent,True
+1187,MEERA,IYER,MEERA IYER,Not specified,+91-8886971977,Female,25,IT,Senior Analyst,Hyderabad,2018-07-29,28,389237,High Performer,False
+1261,Ananya,Iyer,Ananya Iyer,ananya.iyer@gmail.com,+91-8427258822,Male,33,IT,Data Analyst,Bengaluru,2023-02-03,25,1751832,Average,False
+1057,Pooja,Singh,Pooja Singh,pooja.singh@gmail.com,+91-8526147677,Female,47,Sales,BI Developer,Bangalore,2023-11-05,3,1297196,Good,False
+1591,Rahul,Joshi,Rahul Joshi,rahul.joshi@outlook.com,Unknown,Male,58,Operations,Senior Analyst,bangalore,2018-11-01,2,455919,Excellent,False
+1395,Pooja,Kumar,Pooja Kumar,pooja.kumar@gmail.com,+91-7178229686,Female,40,Human Resources,Data Engineer,hyderabad,2020-09-20,3,887984,Not Rated,False
+1759,Neha,Iyer,Neha Iyer,neha.iyer@outlook.com,+91-8911896416,Unknown,35,Finance,SQL Developer,Pune,2023-05-05,19,1481765,Good,True
+1524,Meera,Reddy,Meera Reddy,meera.reddy@gmail.com,Unknown,Female,52,Operations,Senior Analyst,hyderabad,2000-01-01,7,676133,Not Rated,False
+1621,Ananya,Nair,Ananya Nair,ananya.nair@company.in,+91-8639070808,Female,32,IT,Finance Analyst,Not specified,2021-03-15,3,959522,Excellent,True
+1447,Rahul,Sharma,Rahul Sharma,rahul.sharma@yahoo.com,+91-8405679803,Male,48,IT,Manager,Pune,2019-05-24,25,1027322,High Performer,True
+1697,Meera,Mehta,Meera Mehta,meera.mehta@outlook.com,+91-6008396505,Male,33,Finance,Senior Analyst,Pune,2022-08-29,23,602391,Poor,True
+1747,Priya,Rao,Priya Rao,priya.rao@hotmail.com,+91-8752929233,Female,54,Sales,data analyst,MUMBAI,2022-04-10,10,1794664,Excellent,False
+1354,Swati,Kumar,Swati Kumar,swati.kumar@yahoo.com,+91-8791857792,Male,43,Sales,data analyst,chennai,2020-06-13,21,461349,High Performer,True
+1445,Priya,Joshi,Priya Joshi,priya.joshi@gmail.com,Unknown,Female,26,IT,Finance Analyst,MUMBAI,2019-03-08,4,1482706,Good,False
+1611,Kiran,Mishra,Kiran Mishra,kiran.mishra@company.in,+91-7747518666,Male,46,Marketing,data analyst,MUMBAI,2021-08-04,30,1116120,High Performer,True
+1112,Arjun,Singh,Arjun Singh,arjun.singh@company.in,+91-8921322839,Female,23,Marketing,Senior Analyst,Hyderabad,2000-01-01,24,1433641,Good,False
+1784,Swati,Patel,Swati Patel,swati.patel@yahoo.com,+91-8128477207,Male,54,Operations,Finance Analyst,Not specified,2022-07-11,14,593497,Not Rated,False
+1051,Pooja,Pillai,Pooja Pillai,pooja.pillai@gmail.com,+91-9259973452,Female,31,Operations,Sql Developer,Chennai,2018-05-18,2,1745588,Excellent,True
+1595,Neha,Mehta,Neha Mehta,neha.mehta@yahoo.com,Unknown,Male,33,Operations,SENIOR ANALYST,Bombay,2018-12-05,4,1350238,High Performer,False
+1183,Neha,Reddy,Neha Reddy,neha.reddy@outlook.com,+91-7193713279,Female,24,Human Resources,Data Engineer,Bangalore,2022-10-03,5,1025319,Excellent,True
+1123,Sneha,Kumar,Sneha Kumar,Not specified,+91-8286684757,Female,56,Marketing,Senior Analyst,Delhi,2018-02-23,17,50,Good,True
+1253,Meera,Sharma,Meera Sharma,meera.sharma@company.in,+91-6022158944,Male,29,Finance,Manager,Chennai,2020-08-14,7,459421,Not Rated,False
+1029,Suresh,Pillai,Suresh Pillai,suresh.pillai@outlook.com,+91-7437550554,Female,30,Sales,Senior Analyst,MUMBAI,2000-01-01,1,1587368,Poor,False
+1340,KIRAN,RAO,KIRAN RAO,kiran.rao@hotmail.com,XXXXXXXXXX,Unknown,56,IT,Manager,Bombay,2022-08-06,25,1131946,Average,False
+1550,ANANYA,REDDY,ANANYA REDDY,ananya.reddy@outlook.com,+91-9938464506,Male,49,IT,SQL Developer,MUMBAI,2018-05-08,19,984461,Average,False
+1696,Ananya,Kumar,Ananya Kumar,ananya.kumargmail.com,+91-6706442979,Male,45,Marketing,HR Executive,MUMBAI,2020-04-21,5,1027322,Poor,True
+1410,Ravi,Nair,Ravi Nair,Not specified,+91-6269913445,Male,55,Human Resources,BI Developer,Mumbai,2022-09-19,14,1244872,High Performer,False
+1522,Vikram,Iyer,Vikram Iyer,vikram.iyer@gmail.com,+91-6415435433,Unknown,52,Finance,data analyst,Pune,2021-09-15,0,1046190,Good,False
+1657,NEHA,SHARMA,NEHA SHARMA,neha.sharma@hotmail.com,Unknown,Male,46,Sales,Data Engineer,Delhi,2021-07-15,14,1087327,Not Rated,True
+1360,Kiran,Mishra,Kiran Mishra,kiran.mishra@hotmail.com,+91-8544900272,Unknown,58,Operations,Not specified,Bombay,2018-07-14,22,1725423,Good,True
+1513,Meera,Iyer,Meera Iyer,meera.iyer@hotmail.com,+91-7435818438,Female,30,Human Resources,Data Analyst,Mumbai,2019-04-27,28,1097070,Poor,False
+1072,Arjun,Mishra,Arjun Mishra,arjun.mishra@company.in,+91-7061516500,Male,36,Finance,SENIOR ANALYST,bangalore,2000-01-01,22,111083,Not Rated,False
+1286,Neha,Singh,Neha Singh,neha.singh@hotmail.com,Unknown,Male,27,Sales,Senior Analyst,chennai,2023-01-19,24,816842,Excellent,True
+1337,Priya,Singh,Priya Singh,Not specified,+91-6313149647,Female,56,Marketing,Senior Analyst,Bombay,2023-12-01,4,472046,Excellent,False
+1409,Meera,Rao,Meera Rao,meera.rao@outlook.com,+91-8661018082,Female,34,IT,SQL Developer,Hyderabad,2000-01-01,20,1096917,Excellent,True
+1198,Rahul,Nair,Rahul Nair,rahul.nair@yahoo.com,+91-6410902725,Unknown,40,Operations,SQL Developer,Bengaluru,2023-05-26,14,1629386,High Performer,True
+1676,Kiran,Rao,Kiran Rao,kiran.rao@company.in,+91-8486504625,Male,22,Finance,Manager,Bombay,2022-02-05,30,1117096,Not Rated,False
+1025,Priya,Singh,Priya Singh,priya.singh@yahoo.com,919937258287,Unknown,29,IT,SQL Developer,Delhi,2023-03-16,22,523453,Good,True
+1229,Sneha,Kumar,Sneha Kumar,sneha.kumar@outlook.com,+91-6266297557,Male,46,Sales,data analyst,Hyderabad,2022-07-28,14,70405,High Performer,False
+1234,Priya,Gupta,Priya Gupta,priya.gupta@hotmail.com,+91-7898025111,Female,42,IT,Not specified,Pune,2023-06-11,15,865741,Poor,True
+1313,Unknown,Unknown,Unknown,employee777@company.in,Unknown,Female,28,Marketing,data analyst,Bengaluru,2023-01-06,2,41442,Not Rated,True
+1359,ravi,nair,ravi nair,ravi.nair@outlook.com,+91-6282567012,Unknown,38,Operations,BI Developer,Bengaluru,2019-09-15,25,1241293,Average,True
+1472,VIKRAM,SHARMA,VIKRAM SHARMA,Not specified,XXXXXXXXXX,Female,56,Finance,Finance Analyst,Hyderabad,2018-11-26,13,1374666,Excellent,True
+1205,Vikram,Kumar,Vikram Kumar,vikram.kumar@outlook.com,XXXXXXXXXX,Male,45,Marketing,Sql Developer,Pune,2020-07-13,14,355075,Good,True
+1228,Ananya,Reddy,Ananya Reddy,ananya.reddy@company.in,+91-9415206273,Male,47,Finance,Manager,Chennai,2020-12-04,3,102642,High Performer,False
+1482,Vikram,Kumar,Vikram Kumar,vikram.kumar@gmail.com,+91-8663784672,Male,48,Human Resources,Data Analyst,Chennai,2000-01-01,3,108386,Excellent,False
+1040,Pooja,Mishra,Pooja Mishra,pooja.mishra@hotmail.com,+91-7458641659,Unknown,57,Finance,Manager,Chennai,2023-06-15,27,1107902,Good,True
+1392,Aakash,Mehta,Aakash Mehta,aakash.mehta@outlook.com,+91-8902436255,Unknown,45,IT,HR Executive,Chennai,2020-06-15,17,1027322,Not Rated,True
+1111,Pooja,Iyer,Pooja Iyer,pooja.iyer@company.in,+91-7950244847,Unknown,52,Human Resources,HR Executive,Not specified,2021-01-09,14,477627,Excellent,False
+1719,Sneha,Singh,Sneha Singh,sneha.singh@gmail.com,+91-8524639163,Male,41,Human Resources,Senior Analyst,Delhi,2018-05-07,21,1473433,Good,False
+1164,Ravi,Joshi,Ravi Joshi,ravi.joshi@outlook.com,+91-6441048728,Female,47,Finance,data analyst,Chennai,2019-06-16,1,809067,Good,False
+1274,Divya,Kumar,Divya Kumar,divya.kumar@company.in,Unknown,Female,29,Operations,HR Executive,MUMBAI,2000-01-01,25,655641,High Performer,True
+1255,Neha,Rao,Neha Rao,neha.rao@company.in,Unknown,Female,50,Human Resources,BI Developer,Pune,2000-01-01,27,655470,Good,True
+1753,Neha,Patel,Neha Patel,neha.patel@yahoo.com,+91-9884239550,Male,32,IT,SQL Developer,chennai,2021-09-27,15,931518,Not Rated,False
+1512,Kiran,Iyer,Kiran Iyer,kiran.iyer@gmail.com,+91-8737456406,Male,54,Marketing,BI Developer,Delhi,2022-08-25,5,606047,Poor,True
+1422,Divya,Rao,Divya Rao,divya.raogmail.com,+91-7526393650,Female,43,IT,SENIOR ANALYST,Bombay,2022-09-21,1,50,Not Rated,True
+1341,Ravi,Nair,Ravi Nair,ravi.nair@gmail.com,+91-9112232225,Male,25,Finance,Sql Developer,Bangalore,2020-02-18,14,928626,Average,False
+1755,Suresh,Iyer,Suresh Iyer,suresh.iyer@yahoo.com,+91-6798534963,Male,22,Finance,Finance Analyst,hyderabad,2019-09-06,6,461315,Excellent,True
+1184,Suresh,Nair,Suresh Nair,suresh.nair@company.in,+91-9423198820,Unknown,31,IT,SENIOR ANALYST,Bombay,2018-07-07,10,817136,Not Rated,True
+1026,Meera,Pillai,Meera Pillai,meera.pillai@outlook.com,Unknown,Female,49,IT,Not specified,Chennai,2023-03-29,28,1339773,Not Rated,True
+1423,Ananya,Sharma,Ananya Sharma,ananya.sharma@company.in,+91-7871953450,Female,38,Operations,Not specified,Not specified,2000-01-01,1,710094,Not Rated,False
+1182,Sneha,Rao,Sneha Rao,sneha.rao@outlook.com,+91-8799051568,Unknown,27,Finance,Senior Analyst,Mumbai,2021-10-13,1,584142,Good,True
+1167,Suresh,Pillai,Suresh Pillai,suresh.pillai@outlook.com,+91-7336543313,Female,46,Marketing,Not specified,Not specified,2022-06-09,5,1129826,Not Rated,False
+1355,Pooja,Nair,Pooja Nair,pooja.nair@outlook.com,+91-8324194503,Female,47,IT,BI Developer,Bangalore,2021-05-13,0,1600637,Excellent,False
+1191,Rahul,Singh,Rahul Singh,rahul.singh@hotmail.com,+91-6633117102,Female,55,Operations,Sql Developer,Bangalore,2021-02-20,3,991099,Average,True
+1768,Divya,Mehta,Divya Mehta,divya.mehta@company.in,+91-8591280431,Female,25,Human Resources,Finance Analyst,Bangalore,2020-08-06,3,1203067,Excellent,True
+1636,Vikram,Kumar,Vikram Kumar,vikram.kumar@company.in,+91-7584112736,Male,33,Operations,data analyst,Bombay,2000-01-01,18,1665323,Excellent,True
+1669,Arjun,Nair,Arjun Nair,arjun.nair@company.in,+91-8223421188,Female,50,Marketing,Finance Analyst,chennai,2021-09-23,13,585473,High Performer,False
+1574,arjun,kumar,arjun kumar,arjun.kumar@yahoo.com,+91-8913277923,Unknown,40,Human Resources,HR Executive,bangalore,2019-07-02,21,1565025,Excellent,False
+1799,Unknown,Unknown,Unknown,employee806@gmail.com,+91-7019570931,Female,55,Human Resources,Manager,MUMBAI,2021-04-20,7,721216,Average,False
+1363,Vikram,Verma,Vikram Verma,vikram.verma@outlook.com,+91-9587048998,Female,24,Marketing,Sql Developer,bangalore,2019-04-15,10,672532,Average,True
+1106,Arjun,Patel,Arjun Patel,arjun.patel@yahoo.com,+91-6234536518,Male,54,Finance,Manager,Bombay,2019-06-14,7,969280,Good,False
+1683,Divya,Reddy,Divya Reddy,divya.reddy@gmail.com,+91-6839267208,Male,36,Operations,BI Developer,Not specified,2022-06-07,27,1757432,Average,False
+1256,Pooja,Patel,Pooja Patel,pooja.patel@company.in,+91-8751161865,Male,24,Finance,Data Analyst,Bangalore,2018-08-19,28,1507706,Good,False
+1699,SNEHA,JOSHI,SNEHA JOSHI,sneha.joshi@company.in,+91-9372682391,Male,22,Finance,Data Analyst,MUMBAI,2020-05-24,15,983432,Average,True
+1792,Swati,Mehta,Swati Mehta,swati.mehta@gmail.com,Unknown,Male,27,Human Resources,Finance Analyst,Hyderabad,2020-10-09,1,1124044,Not Rated,True
+1367,Rahul,Rao,Rahul Rao,rahul.rao@yahoo.com,+91-8984064140,Unknown,47,Human Resources,BI Developer,chennai,2000-01-01,4,1482480,Excellent,False
+1703,Divya,Mishra,Divya Mishra,divya.mishra@hotmail.com,+91-8007477968,Unknown,47,Sales,Data Analyst,Chennai,2019-08-05,19,1444267,Not Rated,False
+1436,Arjun,Pillai,Arjun Pillai,arjun.pillai@hotmail.com,+91-7422258790,Male,34,Finance,SENIOR ANALYST,Chennai,2019-11-14,12,1453641,Poor,False
+1374,Vikram,Sharma,Vikram Sharma,vikram.sharma@company.in,+91-8431367698,Unknown,26,IT,Manager,chennai,2019-12-27,14,1027322,Excellent,False
+1316,Kiran,Sharma,Kiran Sharma,kiran.sharma@outlook.com,+91-8646142846,Male,57,IT,Data Analyst,Bangalore,2000-01-01,20,1785553,Not Rated,True
+1043,Divya,Kumar,Divya Kumar,divya.kumar@yahoo.com,+91-7411408078,Male,57,Finance,Sql Developer,Bengaluru,2021-04-04,8,910965,Not Rated,False
+1131,ANANYA,RAO,ANANYA RAO,ananya.rao@company.in,+91-7951212610,Female,44,Sales,Manager,Bengaluru,2019-01-08,4,445036,Good,False
+1441,Divya,Patel,Divya Patel,divya.patel@outlook.com,+91-9910752537,Female,39,Human Resources,Sql Developer,Chennai,2021-08-03,14,1158032,Average,True
+1152,Sneha,Sharma,Sneha Sharma,Not specified,Unknown,Female,34,Human Resources,Manager,bangalore,2022-12-18,8,591879,Not Rated,True
+1566,Ravi,Rao,Ravi Rao,ravi.rao@company.in,+91-8743483601,Male,47,Human Resources,HR Executive,Chennai,2021-12-08,27,807555,Average,False
+1597,Swati,Verma,Swati Verma,swati.verma@yahoo.com,+91-6989019333,Female,38,Human Resources,Not specified,Mumbai,2022-09-07,13,623261,Good,True
+1038,Ravi,Iyer,Ravi Iyer,ravi.iyer@yahoo.com,+91-6915422939,Unknown,54,Finance,Data Analyst,hyderabad,2020-02-25,10,1090607,Not Rated,False
+1037,Unknown,Unknown,Unknown,employee825@yahoo.com,+91-9155023597,Male,26,Finance,Manager,Bengaluru,2022-01-15,9,50,Good,True
+1559,Unknown,Unknown,Unknown,employee826@yahoo.com,+91-9498906591,Female,43,Marketing,Finance Analyst,Delhi,2023-04-01,25,1420649,Excellent,True
+1153,Rahul,Pillai,Rahul Pillai,rahul.pillai@outlook.com,+91-9178625372,Female,54,Finance,Senior Analyst,Chennai,2018-02-22,30,1750618,Average,True
+1708,Aakash,Reddy,Aakash Reddy,Not specified,+91-7719329399,Male,56,IT,SQL Developer,Hyderabad,2020-07-16,5,377102,Average,False
+1078,Neha,Nair,Neha Nair,Not specified,+91-6028885322,Unknown,58,IT,Senior Analyst,hyderabad,2018-07-11,17,1053987,Not Rated,False
+1115,Pooja,Mehta,Pooja Mehta,pooja.mehta@company.in,+91-6316672924,Unknown,50,Marketing,SENIOR ANALYST,Hyderabad,2020-06-28,2,1425973,Good,False
+1430,Suresh,Sharma,Suresh Sharma,suresh.sharma@hotmail.com,+91-8382382306,Male,58,IT,data analyst,Bombay,2018-11-10,16,478220,Excellent,True
+1575,Aakash,Verma,Aakash Verma,aakash.verma@yahoo.com,917891538480,Male,37,Human Resources,data analyst,Bangalore,2018-07-29,6,62536,Good,True
+1438,Meera,Kumar,Meera Kumar,meera.kumar@company.in,+91-6855226225,Male,51,Finance,Senior Analyst,Bangalore,2018-10-19,26,1044507,Not Rated,True
+1723,Suresh,Kumar,Suresh Kumar,suresh.kumar@gmail.com,+91-6747954010,Unknown,23,IT,SENIOR ANALYST,Not specified,2023-03-27,0,1584878,Excellent,True
+1565,Unknown,Unknown,Unknown,employee835@outlook.com,+91-7125276504,Unknown,38,Sales,SQL Developer,chennai,2021-04-02,23,1027322,Good,False
+1453,Unknown,Unknown,Unknown,employee836@yahoo.com,+91-7459505001,Female,40,Marketing,Finance Analyst,Not specified,2022-08-18,7,1720761,Average,True
+1760,Aakash,Iyer,Aakash Iyer,aakash.iyer@gmail.com,+91-7056408479,Female,36,Human Resources,Finance Analyst,MUMBAI,2019-07-18,18,995408,Good,True
+1166,Rahul,Patel,Rahul Patel,Not specified,+91-6092307558,Male,48,Operations,data analyst,bangalore,2018-01-01,29,1202730,Excellent,True
+1269,Neha,Nair,Neha Nair,Not specified,+91-7124373488,Male,55,Human Resources,data analyst,Not specified,2019-06-29,4,42924,High Performer,False
+1653,Pooja,Sharma,Pooja Sharma,pooja.sharma@hotmail.com,+91-6090167505,Female,38,IT,Not specified,Delhi,2020-12-26,28,1370965,Not Rated,True
+1134,Ravi,Sharma,Ravi Sharma,ravi.sharma@company.in,+91-6589456484,Unknown,27,Marketing,Manager,hyderabad,2021-06-11,14,1470197,Good,True
+1790,Neha,Sharma,Neha Sharma,invalid-email,+91-9381917721,Female,43,Operations,Senior Analyst,Bangalore,2022-12-08,1,1506356,Average,False
+1342,SNEHA,KUMAR,SNEHA KUMAR,sneha.kumar@hotmail.com,+91-7453345091,Male,40,Human Resources,SENIOR ANALYST,bangalore,2018-10-09,23,1084585,Not Rated,False
+1004,Aakash,Rao,Aakash Rao,aakash.rao@hotmail.com,+91-7310275883,Male,44,Human Resources,Data Analyst,MUMBAI,2000-01-01,1,1725131,Not Rated,True
+1046,Divya,Reddy,Divya Reddy,divya.reddy@hotmail.com,+91-7587594499,Male,58,Finance,Sql Developer,hyderabad,2000-01-01,12,1349552,Good,True
+1284,Swati,Singh,Swati Singh,swati.singh@company.in,+91-8838581316,Female,34,Sales,Manager,Not specified,2021-05-17,25,351511,Not Rated,False
+1646,Rahul,Singh,Rahul Singh,rahul.singh@gmail.com,+91-8263133100,Female,34,Operations,BI Developer,MUMBAI,2020-05-20,3,919566,High Performer,False
+1488,Ananya,Mehta,Ananya Mehta,ananya.mehta@company.in,+91-8676639842,Male,37,Sales,Data Engineer,Bombay,2021-06-30,7,480050,Good,True
+1095,Ravi,Iyer,Ravi Iyer,ravi.iyer@gmail.com,+91-9772647030,Unknown,35,Marketing,data analyst,MUMBAI,2018-07-02,2,48569,Excellent,True
+1053,Meera,Kumar,Meera Kumar,meera.kumar@hotmail.com,+91-6508924953,Unknown,37,Marketing,HR Executive,Hyderabad,2018-06-01,13,1019462,Poor,True
+1258,Vikram,Rao,Vikram Rao,vikram.rao@company.in,+91-9969217513,Unknown,44,Human Resources,Data Engineer,Hyderabad,2022-08-27,4,733832,High Performer,True
+1501,Kiran,Reddy,Kiran Reddy,kiran.reddy@gmail.com,793-7278962,Male,28,Operations,Data Analyst,Mumbai,2021-04-16,7,1030438,Good,False
+1518,Aakash,Verma,Aakash Verma,aakash.verma@.com,+91-8732213159,Male,27,Operations,Senior Analyst,Chennai,2020-01-03,2,1218900,Good,True
+1690,Sneha,Mehta,Sneha Mehta,sneha.mehta@hotmail.com,+91-6198406825,Male,53,Operations,Data Analyst,Hyderabad,2022-08-08,14,1248850,Excellent,False
+1650,Rahul,Nair,Rahul Nair,rahul.nair@gmail.com,+91-8522545423,Unknown,56,Operations,Data Engineer,Not specified,2022-01-03,5,929699,Average,False
+1704,Ravi,Patel,Ravi Patel,ravi.patel@outlook.com,+91-8299819036,Male,52,Operations,Sql Developer,Hyderabad,2018-08-10,27,1027322,Excellent,True
+1209,Aakash,Pillai,Aakash Pillai,aakash.pillai@outlook.com,+91-6638090067,Female,42,Operations,SQL Developer,chennai,2000-01-01,18,347364,Not Rated,True
+1352,Rahul,Kumar,Rahul Kumar,rahul.kumar@yahoo.com,+91-6228745556,Male,58,Human Resources,Not specified,Bangalore,2022-01-13,14,1658891,Excellent,False
+1735,Priya,Patel,Priya Patel,priya.patel@yahoo.com,+91-7202905677,Unknown,53,Marketing,Data Engineer,Delhi,2023-01-06,24,51542,Excellent,False
+1216,Unknown,Unknown,Unknown,employee860@outlook.com,+91-9657175992,Unknown,54,IT,HR Executive,Not specified,2019-12-01,22,811522,Good,False
+1620,Vikram,Verma,Vikram Verma,vikram.verma@gmail.com,+91-8508614018,Unknown,36,IT,SQL Developer,hyderabad,2019-05-25,25,1457439,Good,True
+1289,VIKRAM,PILLAI,VIKRAM PILLAI,vikram.pillai@company.in,+91-6898668512,Male,30,Sales,Data Engineer,Bangalore,2023-02-24,20,1474088,Excellent,True
+1279,Pooja,Gupta,Pooja Gupta,pooja.gupta@outlook.com,+91-9370111473,Male,40,Finance,Manager,MUMBAI,2019-10-20,20,1268997,Poor,True
+1160,Neha,Reddy,Neha Reddy,neha.reddy@company.in,+91-8849720249,Female,56,Operations,HR Executive,Mumbai,2020-03-31,14,1149446,Average,False
+1567,Meera,Singh,Meera Singh,meera.singh@company.in,+91-6719121589,Male,40,IT,Senior Analyst,chennai,2022-05-16,12,690881,Excellent,False
+1761,Rahul,Singh,Rahul Singh,rahul.singh@hotmail.com,+91-9226843425,Female,33,Human Resources,data analyst,MUMBAI,2023-02-07,10,1206251,Good,True
+1110,Arjun,Iyer,Arjun Iyer,arjun.iyer@gmail.com,+91-9226105697,Female,29,IT,Manager,Hyderabad,2020-01-08,9,1587875,Excellent,True
+1119,Ravi,Rao,Ravi Rao,ravi.rao@yahoo.com,+91-8141418189,Male,51,Operations,Senior Analyst,Chennai,2022-03-17,8,1242827,Good,False
+1271,Neha,Iyer,Neha Iyer,neha.iyer@gmail.com,+91-6768792768,Female,22,Sales,Finance Analyst,Bombay,2020-10-11,19,1115447,Good,False
+1138,Sneha,Iyer,Sneha Iyer,sneha.iyer@outlook.com,+91-7605796870,Female,40,Human Resources,Data Engineer,hyderabad,2019-06-21,25,1027322,Good,True
+1107,sneha,pillai,sneha pillai,sneha.pillai@outlook.com,+91-8075745031,Female,28,Operations,Not specified,Delhi,2021-06-16,21,883731,High Performer,False
+1680,Rahul,Singh,Rahul Singh,rahul.singh@yahoo.com,+91-8125115553,Female,38,IT,Data Engineer,bangalore,2020-05-28,5,431205,Good,True
+1307,Rahul,Joshi,Rahul Joshi,rahul.joshi@outlook.com,+91-8496177821,Male,38,Human Resources,HR Executive,Bengaluru,2021-08-24,1,1425937,Good,True
+1568,PRIYA,VERMA,PRIYA VERMA,priya.verma@company.in,+91-9956460401,Female,52,Finance,Data Analyst,Bombay,2022-11-23,29,983639,Excellent,False
+1664,Priya,Verma,Priya Verma,priya.verma@yahoo.com,+91-8790600319,Unknown,43,Human Resources,Data Analyst,bangalore,2021-11-28,28,538980,Excellent,True
+1684,Kiran,Nair,Kiran Nair,kiran.nair@yahoo.com,Unknown,Female,53,Operations,Data Engineer,Pune,2019-07-15,14,1326522,Good,False
+1009,Swati,Gupta,Swati Gupta,swati.gupta@outlook.com,+91-7941669093,Female,48,IT,Manager,Bombay,2022-06-02,14,1640307,Average,False
+1542,Divya,Patel,Divya Patel,divya.patel@outlook.com,+91-7700377445,Female,45,Operations,SQL Developer,Pune,2020-03-04,11,1115035,Average,False
+1670,pooja,iyer,pooja iyer,pooja.iyer@gmail.com,+91-7825459235,Male,47,Human Resources,Not specified,chennai,2000-01-01,20,1531038,Average,True
+1075,Priya,Verma,Priya Verma,priya.verma@hotmail.com,+91-8454017128,Male,33,IT,Senior Analyst,Bangalore,2023-11-01,2,76135,Excellent,False
+1627,Rahul,Sharma,Rahul Sharma,rahul.sharma@hotmail.com,+91-9618216170,Male,58,Finance,SQL Developer,Bombay,2022-05-01,24,1594703,Average,True
+1310,Aakash,Iyer,Aakash Iyer,Not specified,+91-8364602747,Female,28,Operations,data analyst,hyderabad,2021-12-04,10,1712618,Average,True
+1721,Vikram,Iyer,Vikram Iyer,vikram.iyer@hotmail.com,827-9704367,Male,37,Sales,SENIOR ANALYST,Hyderabad,2021-05-02,3,923787,Excellent,True
+1557,Sneha,Gupta,Sneha Gupta,sneha.gupta@hotmail.com,+91-6176707493,Male,46,Operations,SENIOR ANALYST,chennai,2021-01-24,23,1537672,Average,True
+1750,Pooja,Iyer,Pooja Iyer,pooja.iyer@hotmail.com,+91-8667715097,Male,31,Marketing,Senior Analyst,Bengaluru,2022-11-10,18,47556,Average,True
+1449,PRIYA,MISHRA,PRIYA MISHRA,priya.mishra@outlook.com,+91-7937679663,Unknown,22,Human Resources,Manager,Chennai,2020-08-03,22,800323,Good,False
+1584,Rahul,Patel,Rahul Patel,rahul.patel@hotmail.com,+91-7756438810,Unknown,53,Finance,Senior Analyst,hyderabad,2018-07-18,23,683872,Average,False
+1292,SWATI,SHARMA,SWATI SHARMA,swati.sharma@outlook.com,+91-8136931179,Female,55,Finance,Senior Analyst,Delhi,2000-01-01,10,596450,Excellent,True
+1379,Vikram,Kumar,Vikram Kumar,vikram.kumar@company.in,+91-7642270644,Male,42,Finance,Data Engineer,chennai,2019-07-09,8,1177110,Not Rated,True
+1251,Sneha,Patel,Sneha Patel,sneha.patel@company.in,Unknown,Male,41,Operations,Manager,Not specified,2020-11-24,13,1505455,Average,True
+1797,Aakash,Joshi,Aakash Joshi,aakash.joshi@hotmail.com,+91-8771778007,Male,58,Finance,Manager,Delhi,2022-06-01,2,689553,Excellent,False
+1358,Divya,Kumar,Divya Kumar,divya.kumar@company.in,Unknown,Female,40,Human Resources,Senior Analyst,Mumbai,2022-09-16,14,1426966,Good,True
+1136,Ravi,Joshi,Ravi Joshi,ravi.joshi@gmail.com,+91-9375300097,Male,32,Operations,SQL Developer,Hyderabad,2021-06-28,16,1653208,Good,True
+1143,Vikram,Singh,Vikram Singh,vikram.singh@gmail.com,+91-6978142717,Male,40,Operations,SENIOR ANALYST,Bangalore,2023-02-26,15,663299,High Performer,True
+1519,Arjun,Mishra,Arjun Mishra,arjun.mishra@outlook.com,879-4360587,Male,28,Finance,BI Developer,Pune,2021-07-07,21,1326853,Excellent,True
+1359,Suresh,Reddy,Suresh Reddy,suresh.reddy@yahoo.com,+91-7414080581,Female,43,Operations,SENIOR ANALYST,chennai,2023-04-24,28,692374,Good,False
+1551,Rahul,Singh,Rahul Singh,rahul.singh@gmail.com,+91-9200658366,Unknown,45,IT,Senior Analyst,Bangalore,2021-01-23,19,1245817,Average,True
+1076,Aakash,Rao,Aakash Rao,aakash.rao@outlook.com,+91-8935779057,Female,38,IT,BI Developer,Not specified,2021-06-16,21,1052959,Poor,False
+1103,Sneha,Pillai,Sneha Pillai,sneha.pillai@hotmail.com,+91-6818803017,Male,48,IT,Data Analyst,Bangalore,2021-12-02,25,1316298,Poor,False
+1577,Vikram,Singh,Vikram Singh,vikram.singh@gmail.com,+91-6592126205,Female,34,IT,Data Engineer,MUMBAI,2000-01-01,28,1105189,Good,True
+1637,Rahul,Singh,Rahul Singh,rahul.singh@hotmail.com,+91-9231461895,Female,56,Operations,Data Engineer,Bengaluru,2019-10-01,14,1359980,Not Rated,False
+1470,Swati,Verma,Swati Verma,swati.verma@yahoo.com,+91-8332706818,Female,40,Marketing,data analyst,Not specified,2021-03-07,14,1158016,Average,False
+1010,priya,mishra,priya mishra,priya.mishra@gmail.com,+91-6036652731,Male,54,Finance,data analyst,chennai,2021-11-11,9,1171640,Good,False
+1075,Arjun,Sharma,Arjun Sharma,arjun.sharma@gmail.com,+91-7210516208,Male,50,Human Resources,Senior Analyst,Pune,2019-11-02,2,1230824,Not Rated,True
+1770,Sneha,Kumar,Sneha Kumar,sneha.kumar@hotmail.com,+91-9363510233,Female,46,Operations,Not specified,Bangalore,2021-04-19,8,473372,Excellent,True
+1611,Neha,Pillai,Neha Pillai,Not specified,+91-7742719407,Unknown,51,Marketing,data analyst,MUMBAI,2019-10-05,4,762483,Good,False
+1469,Unknown,Unknown,Unknown,employee907@hotmail.com,+91-9254752295,Male,31,Marketing,SENIOR ANALYST,Pune,2018-08-15,27,876408,Average,True
+1308,Kiran,Pillai,Kiran Pillai,kiran.pillai@hotmail.com,+91-8027241711,Female,43,Human Resources,Not specified,Chennai,2021-06-10,30,905385,Good,True
+1661,Rahul,Sharma,Rahul Sharma,rahul.sharma@gmail.com,+91-9269159595,Male,58,Operations,data analyst,Chennai,2022-01-19,9,1259072,Average,True
+1688,Suresh,Mishra,Suresh Mishra,suresh.mishra@hotmail.com,+91-9717148679,Female,26,Finance,Data Engineer,hyderabad,2000-01-01,21,1338747,Not Rated,True
+1135,Ravi,Patel,Ravi Patel,ravi.patel@outlook.com,+91-6974641050,Female,40,Operations,data analyst,MUMBAI,2020-01-10,4,537420,Average,True
+1406,Ananya,Mehta,Ananya Mehta,ananya.mehta@yahoo.com,+91-6901406355,Unknown,42,Finance,Sql Developer,bangalore,2021-11-28,13,861803,Average,False
+1584,rahul,kumar,rahul kumar,rahul.kumar@yahoo.com,+91-8215453003,Unknown,39,Human Resources,Data Engineer,Delhi,2022-12-26,20,1069364,Average,False
+1245,Aakash,Nair,Aakash Nair,aakash.nair@company.in,+91-8373464440,Male,47,Finance,Senior Analyst,Hyderabad,2019-12-21,14,387263,Poor,True
+1271,Aakash,Nair,Aakash Nair,aakash.nair@hotmail.com,+91-9103158331,Unknown,50,Operations,HR Executive,chennai,2000-01-01,0,1225612,Poor,True
+1734,Sneha,Mishra,Sneha Mishra,sneha.mishra@outlook.com,+91-7463121724,Male,45,Operations,Data Analyst,Mumbai,2018-06-10,7,1191614,Good,True
+1686,Arjun,Verma,Arjun Verma,arjun.vermagmail.com,+91-7344646168,Female,55,Finance,Data Engineer,Not specified,2021-10-30,16,115678,Excellent,True
+1210,Unknown,Unknown,Unknown,employee918@gmail.com,+91-7841651780,Male,48,Finance,HR Executive,hyderabad,2019-04-11,13,924340,Average,True
+1268,Swati,Gupta,Swati Gupta,swati.gupta@yahoo.com,+91-8997634920,Female,23,Finance,Senior Analyst,Chennai,2019-03-01,20,367592,Not Rated,True
+1324,Ravi,Pillai,Ravi Pillai,ravi.pillai@gmail.com,+91-7884119695,Male,37,Human Resources,Sql Developer,Mumbai,2019-10-06,10,1031018,Not Rated,True
+1536,Suresh,Verma,Suresh Verma,suresh.verma@yahoo.com,+91-8398510824,Male,27,Sales,Manager,Bombay,2020-04-21,21,482416,Excellent,False
+1579,MEERA,GUPTA,MEERA GUPTA,meera.gupta@hotmail.com,Unknown,Unknown,47,Finance,Data Engineer,Mumbai,2018-07-24,26,546176,Excellent,True
+1598,Priya,Singh,Priya Singh,priya.singh@gmail.com,+91-6551240340,Female,26,Finance,Not specified,Chennai,2019-11-03,14,796911,Not Rated,True
+1674,Ravi,Patel,Ravi Patel,ravi.patel@gmail.com,+91-9168848623,Unknown,52,IT,Data Analyst,chennai,2021-05-12,4,1532965,Good,False
+1430,Ananya,Nair,Ananya Nair,ananya.nair@gmail.com,Unknown,Female,23,Sales,SQL Developer,chennai,2000-01-01,9,1790559,Not Rated,False
+1084,Vikram,Rao,Vikram Rao,vikram.rao@gmail.com,+91-7523263613,Female,55,IT,Senior Analyst,MUMBAI,2018-01-16,8,1197931,Not Rated,True
+1635,Divya,Nair,Divya Nair,divya.nair@company.in,+91-7800224026,Unknown,27,Human Resources,Senior Analyst,Mumbai,2018-02-20,11,591996,Poor,True
+1041,Rahul,Patel,Rahul Patel,rahul.patel@hotmail.com,+91-9232504832,Female,31,Finance,SENIOR ANALYST,Bangalore,2022-07-11,24,733990,Poor,False
+1609,Divya,Mishra,Divya Mishra,divya.mishra@hotmail.com,+91-9344247961,Unknown,46,Operations,Data Analyst,Chennai,2019-09-04,4,1495532,Good,False
+1593,SNEHA,MISHRA,SNEHA MISHRA,sneha.mishra@hotmail.com,+91-7286932005,Unknown,37,Human Resources,Senior Analyst,bangalore,2019-01-02,14,889478,Good,True
+1253,Swati,Verma,Swati Verma,Not specified,+91-6099814341,Male,50,Human Resources,Finance Analyst,Pune,2019-08-24,19,653112,Good,False
+1584,Swati,Gupta,Swati Gupta,swati.gupta@gmail.com,+91-6138336549,Unknown,30,Human Resources,Data Analyst,Delhi,2020-02-08,22,1776507,Good,True
+1211,Swati,Mishra,Swati Mishra,swati.mishra@company.in,+91-6660098842,Unknown,32,IT,Finance Analyst,Delhi,2022-05-28,5,1501113,Average,True
+1123,Arjun,Iyer,Arjun Iyer,arjun.iyer@yahoo.com,+91-7418415203,Female,40,Human Resources,Manager,hyderabad,2000-01-01,26,1378806,Average,True
+1414,Sneha,Reddy,Sneha Reddy,sneha.reddy@hotmail.com,+91-9432304988,Female,42,Marketing,HR Executive,Bangalore,2020-04-20,28,1724593,Good,False
+1241,Suresh,Gupta,Suresh Gupta,suresh.gupta@gmail.com,+91-8610641190,Male,51,Operations,data analyst,Bangalore,2019-11-01,4,584350,Average,False
+1468,Ravi,Rao,Ravi Rao,ravi.rao@company.in,+91-7678842092,Female,56,IT,Senior Analyst,Pune,2019-06-21,3,1163179,High Performer,False
+1692,NEHA,VERMA,NEHA VERMA,neha.verma@company.in,+91-6877052144,Female,57,Marketing,Data Engineer,Hyderabad,2018-01-30,14,881589,High Performer,False
+1070,Neha,Mehta,Neha Mehta,neha.mehta@outlook.com,+91-6273629125,Male,56,Finance,SQL Developer,Bombay,2019-10-07,4,566103,Excellent,True
+1610,Rahul,Sharma,Rahul Sharma,rahul.sharma@hotmail.com,+91-6808908473,Unknown,51,Human Resources,SENIOR ANALYST,Bombay,2022-11-07,11,578272,High Performer,True
+1071,Meera,Singh,Meera Singh,meera.singh@outlook.com,+91-7412362910,Unknown,58,Human Resources,data analyst,Bombay,2000-01-01,17,1791903,Good,False
+1191,Ananya,Gupta,Ananya Gupta,ananya.gupta@hotmail.com,+91-7939329441,Female,56,IT,BI Developer,Pune,2019-11-28,21,819159,Not Rated,False
+1755,Suresh,Gupta,Suresh Gupta,suresh.gupta@outlook.com,+91-7308442317,Female,44,IT,Senior Analyst,Mumbai,2000-01-01,11,1718166,Excellent,False
+1083,Sneha,Verma,Sneha Verma,sneha.verma@hotmail.com,Unknown,Male,36,Sales,Manager,MUMBAI,2022-05-22,14,598155,Excellent,True
+1521,Neha,Reddy,Neha Reddy,neha.reddy@company.in,+91-6801836494,Female,50,Sales,SQL Developer,MUMBAI,2022-04-22,5,863540,Excellent,False
+1180,Unknown,Unknown,Unknown,employee946gmail.com,+91-9914198302,Male,48,Human Resources,SQL Developer,hyderabad,2023-05-30,3,1086793,Good,True
+1162,Suresh,Kumar,Suresh Kumar,suresh.kumar@outlook.com,+91-7218987399,Male,41,Finance,Sql Developer,Bombay,2019-01-29,12,1628813,Excellent,False
+1544,Sneha,Sharma,Sneha Sharma,sneha.sharma@hotmail.com,+91-7250288707,Male,40,IT,SENIOR ANALYST,Hyderabad,2020-05-20,24,495233,Excellent,False
+1252,Meera,Pillai,Meera Pillai,meera.pillai@yahoo.com,+91-6300559360,Male,30,Operations,Not specified,Delhi,2019-05-12,14,883481,Excellent,True
+1440,Unknown,Unknown,Unknown,employee950@company.in,+91-7583349418,Female,52,Human Resources,Senior Analyst,Bengaluru,2019-06-13,4,1073998,Average,True
+1515,Sneha,Mehta,Sneha Mehta,sneha.mehta@gmail.com,+91-6737985828,Male,53,Finance,Sql Developer,Hyderabad,2022-11-29,14,1323503,Good,True
+1489,Meera,Mehta,Meera Mehta,meera.mehta@company.in,+91-9907614704,Female,52,Finance,Data Analyst,Not specified,2022-05-24,16,305186,High Performer,True
+1599,Rahul,Joshi,Rahul Joshi,rahul.joshi@hotmail.com,+91-6674462136,Female,49,Operations,Finance Analyst,Not specified,2022-10-16,22,495332,High Performer,True
+1052,Aakash,Patel,Aakash Patel,aakash.patel@yahoo.com,+91-6554642058,Female,36,Operations,BI Developer,Delhi,2022-04-27,28,1261437,Excellent,False
+1059,Swati,Kumar,Swati Kumar,swati.kumar@yahoo.com,+91-8054072997,Unknown,57,Sales,Not specified,Chennai,2019-11-21,30,1762320,Good,False
+1322,Priya,Verma,Priya Verma,priya.verma@hotmail.com,+91-7670711748,Male,48,IT,Not specified,bangalore,2018-04-21,18,432814,Good,True
+1766,Vikram,Mehta,Vikram Mehta,vikram.mehta@hotmail.com,+91-9718151021,Unknown,49,Sales,SQL Developer,hyderabad,2020-03-23,25,1134070,Good,True
+1063,Divya,Iyer,Divya Iyer,divya.iyer@outlook.com,+91-9738550295,Female,32,Finance,SQL Developer,hyderabad,2021-05-21,29,1201026,Excellent,True
+1556,Swati,Kumar,Swati Kumar,swati.kumar@yahoo.com,+91-7856287749,Female,46,Operations,Not specified,hyderabad,2019-04-14,10,1337492,Average,True
+1754,Swati,Reddy,Swati Reddy,swati.reddy@yahoo.com,+91-8855262673,Male,36,Finance,Sql Developer,Not specified,2018-01-19,23,894737,Not Rated,True
+1594,Ananya,Rao,Ananya Rao,ananya.rao@yahoo.com,+91-8592912343,Female,49,Sales,data analyst,Bombay,2018-11-25,1,1512014,Average,False
+1060,Swati,Nair,Swati Nair,swati.nair@yahoo.com,+91-7332787339,Unknown,55,Marketing,BI Developer,Hyderabad,2018-08-31,17,1317827,Good,False
+1223,Ananya,Mishra,Ananya Mishra,ananya.mishra@hotmail.com,+91-8158113763,Male,39,Human Resources,HR Executive,MUMBAI,2018-11-08,0,1731415,Good,False
+1304,Sneha,Singh,Sneha Singh,sneha.singh@outlook.com,+91-7971202883,Female,56,IT,Data Analyst,Bombay,2000-01-01,26,396349,Excellent,True
+1195,Vikram,Reddy,Vikram Reddy,vikram.reddy@company.in,+91-6031968743,Female,48,Human Resources,Sql Developer,Bangalore,2000-01-01,11,90238,Excellent,True
+1159,Sneha,Rao,Sneha Rao,sneha.rao@company.in,+91-7914402567,Male,26,Human Resources,data analyst,Bangalore,2000-01-01,2,1027322,High Performer,False
+1499,Kiran,Gupta,Kiran Gupta,kiran.gupta@outlook.com,Unknown,Female,40,Operations,Data Engineer,Bombay,2019-09-29,6,631315,Excellent,True
+1736,Neha,Pillai,Neha Pillai,neha.pillai@outlook.com,+91-7060170258,Male,51,Operations,SENIOR ANALYST,Mumbai,2018-10-03,7,301417,High Performer,False
+1678,Ananya,Gupta,Ananya Gupta,ananya.gupta@outlook.com,+91-9909719636,Unknown,39,Sales,Not specified,hyderabad,2021-09-06,24,1197160,Average,False
+1570,Arjun,Gupta,Arjun Gupta,arjun.gupta@outlook.com,+91-8108651239,Unknown,53,Sales,BI Developer,Not specified,2020-03-10,0,1744081,Good,True
+1339,Aakash,Nair,Aakash Nair,aakash.nair@outlook.com,+91-8474471345,Female,23,Human Resources,Finance Analyst,Hyderabad,2018-01-08,14,1663142,Not Rated,False
+1749,Divya,Verma,Divya Verma,divya.verma@outlook.com,Unknown,Female,56,Marketing,data analyst,Hyderabad,2018-12-29,30,874660,Average,True
+1714,Divya,Verma,Divya Verma,divya.verma@company.in,+91-9783840727,Female,40,Operations,BI Developer,Chennai,2021-12-23,14,77242,Not Rated,True
+1434,Unknown,Unknown,Unknown,employee974@company.in,+91-7489416646,Female,40,Sales,Data Analyst,Hyderabad,2018-07-09,10,1079812,Good,False
+1293,Divya,Kumar,Divya Kumar,Not specified,+91-9056504578,Male,50,Marketing,HR Executive,MUMBAI,2023-02-09,16,1660865,Excellent,False
+1466,Suresh,Reddy,Suresh Reddy,suresh.reddy@gmail.com,+91-7679720332,Male,36,IT,BI Developer,Chennai,2020-12-28,29,1131188,Not Rated,False
+1179,Suresh,Gupta,Suresh Gupta,suresh.gupta@outlook.com,+91-9478858061,Female,22,Operations,SENIOR ANALYST,Delhi,2018-05-03,12,1766834,Excellent,False
+1221,Suresh,Gupta,Suresh Gupta,suresh.gupta@yahoo.com,+91-7782638028,Male,43,Human Resources,Sql Developer,hyderabad,2022-04-07,27,1200162,Good,True
+1041,Swati,Reddy,Swati Reddy,swati.reddy@outlook.com,+91-9865318619,Male,53,Operations,HR Executive,hyderabad,2000-01-01,12,1775761,Poor,False
+1272,Ravi,Iyer,Ravi Iyer,Not specified,+91-7855754938,Male,51,IT,BI Developer,chennai,2021-04-20,9,57973,Average,True
+1400,MEERA,SHARMA,MEERA SHARMA,meera.sharma@yahoo.com,+91-9911998354,Male,24,Finance,data analyst,Bangalore,2000-01-01,9,578291,Average,True
+1003,Neha,Pillai,Neha Pillai,neha.pillai@outlook.com,+91-9000129290,Male,31,Human Resources,Data Engineer,Not specified,2021-02-18,27,1389353,Not Rated,True
+1389,Ravi,Sharma,Ravi Sharma,ravi.sharma@outlook.com,+91-7690290029,Female,40,Marketing,Manager,Hyderabad,2019-06-02,6,319476,Not Rated,False
+1169,Sneha,Pillai,Sneha Pillai,Not specified,+91-6187537466,Male,40,IT,SQL Developer,hyderabad,2018-12-21,14,1027322,Excellent,True
+1061,Rahul,Nair,Rahul Nair,rahul.nair@company.in,+91-9738939076,Unknown,38,Operations,HR Executive,Mumbai,2020-06-28,13,552903,Good,True
+1001,Ravi,Reddy,Ravi Reddy,ravi.reddy@hotmail.com,+91-9790548435,Female,22,Operations,SENIOR ANALYST,Bengaluru,2023-03-22,9,1185656,Excellent,False
+1411,Aakash,Nair,Aakash Nair,aakash.nair@yahoo.com,+91-7253656226,Male,37,Marketing,HR Executive,bangalore,2020-07-02,23,1301810,High Performer,True
+1176,Rahul,Joshi,Rahul Joshi,rahul.joshi@company.in,+91-6286662713,Female,50,Sales,SENIOR ANALYST,Bangalore,2022-01-11,13,50,Good,False
+1219,Pooja,Joshi,Pooja Joshi,pooja.joshi@gmail.com,+91-9102724688,Male,24,Finance,Data Engineer,Delhi,2022-06-12,13,43425,Excellent,True
+1493,Aakash,Patel,Aakash Patel,aakash.patelgmail.com,+91-9902993431,Female,28,Finance,Data Engineer,Bombay,2022-10-13,18,78177,Poor,True
+1498,Pooja,Joshi,Pooja Joshi,pooja.joshi@company.in,+91-9272167208,Female,35,Sales,BI Developer,Chennai,2021-07-31,4,587580,Good,False
+1417,Ananya,Patel,Ananya Patel,ananya.patel@hotmail.com,+91-7583692176,Unknown,41,Human Resources,SENIOR ANALYST,Bangalore,2018-06-05,15,579227,Excellent,False
+1171,Meera,Pillai,Meera Pillai,meera.pillai@gmail.com,XXXXXXXXXX,Female,32,Human Resources,Senior Analyst,Mumbai,2022-04-02,16,1720059,Good,True
+1243,meera,reddy,meera reddy,meera.reddy@company.in,+91-7085624355,Male,24,Human Resources,Not specified,Not specified,2023-02-27,2,1412556,Excellent,False
+1215,Swati,Sharma,Swati Sharma,swati.sharma@company.in,+91-6191706583,Unknown,57,Operations,HR Executive,Chennai,2018-04-20,18,1579932,Good,True
+1772,Suresh,Joshi,Suresh Joshi,suresh.joshi@hotmail.com,+91-6314372240,Female,38,Sales,Data Engineer,Pune,2020-12-18,2,1222955,Good,False
+1161,Rahul,Sharma,Rahul Sharma,rahul.sharma@gmail.com,+91-8901774665,Female,41,Sales,Sql Developer,Delhi,2000-01-01,14,746809,Poor,False
+1096,swati,kumar,swati kumar,swati.kumar@.com,+91-7637050695,Male,25,Human Resources,SENIOR ANALYST,Delhi,2019-12-02,8,617454,Good,True
+1200,Vikram,Patel,Vikram Patel,vikram.patel@outlook.com,+91-7715160103,Male,35,Human Resources,Finance Analyst,Hyderabad,2020-05-30,17,1592005,Good,True
