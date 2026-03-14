@@ -155,6 +155,6 @@ ordered_cols = [
     'Performance_Rating', 'Is_Active'
 ]
 data = data[ordered_cols]
-data.to_csv('hr_employee_clean.csv', index=False)
+data.to_csv("Python-Data-Cleaning/cleaned_dataset.csv", index=False)
 print(data.head(5).to_string())
  
